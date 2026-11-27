@@ -17,23 +17,25 @@
 
 ## 2. The problem
 
-Everyday problems in Germany often mean dealing with authorities, official letters and forms – and many people find this hard. Official data shows it clearly:
+Everyday problems in Germany often mean dealing with authorities, official letters and forms – and many people find this hard. Official data shows it clearly.
+
+*How to read the scores: in the official survey, citizens rated their experience from –2 (very unhappy) to +2 (very happy). The average across everything is 1.0 – so anything below 1.0 means people are less happy than usual.*
 
 **Dealing with authorities is complicated for many people**
-- 39% of citizens found their contacts with authorities complicated (very, rather or partly). [1]
-- The lowest-rated factors (scale –2 to +2) are: understandable law (0.5), online services (0.6), opening hours (0.7) and waiting time (0.7). Understandable forms (0.8) and official letters (0.9) are also below average (1.0). [1]
-- 58% of citizens still communicate with authorities only on paper, while 95% use digital devices in their private life. [1]
+- **39%** of citizens found their contacts with authorities complicated (very, rather or partly). [1]
+- **The worst-rated parts** of dealing with authorities are: understanding the law (0.5 – the lowest of all), online services (0.6), opening hours (0.7) and waiting time (0.7). Understanding forms (0.8) and official letters (0.9) are also below average. [1]
+- **58%** of citizens still communicate with authorities only on paper, while **95%** use digital devices in their private life. [1]
 
 **Some life situations are especially hard**
-- The lowest-rated life situations are: court cases (0.5), divorce (0.6), tax return, unemployment, financial problems and old-age poverty (each 0.8). [1]
+- The life situations people are **least happy** with are: court cases (0.5), divorce (0.6), and tax return, unemployment, financial problems and old-age poverty (each 0.8). [1]
 - These are exactly the stressful moments when people need clear guidance quickly.
 
-**Many people also face a language barrier**
-- About 14.07 million foreign citizens lived in Germany at the end of 2025. [2]
-- This group is growing – for example, the number of Indian citizens rose from 124,095 (2018) to 311,130 (2025). [2]
+**Many people may also face a language barrier**
+- About **14.07 million** foreign citizens lived in Germany at the end of 2025. [2]
+- This group is growing – for example, the number of Indian citizens rose from **124,095 (2018) to 311,130 (2025)**, more than double. [2]
 
 **The market is everyone in Germany**
-- 83.5 million people lived in Germany at the end of 2025 – all of them deal with authorities at some point. [3]
+- **83.5 million** people lived in Germany at the end of 2025 – all of them deal with authorities at some point. [3]
 
 ### Sources
 [1] Destatis – Lebenslagenbefragung 2023, Bürgerinnen und Bürger (results report). Latest published edition; no 2025 edition was available at the time of research (November 2026). File: `data/life_events_survey_2023_report.pdf`
@@ -46,8 +48,8 @@ The rule for this project: public or synthetic data only – no real company dat
 
 | Dataset | Source | What it shows | Why it fits |
 |---|---|---|---|
-| `data/life_events_satisfaction_2023.csv` | Destatis, Lebenslagenbefragung 2023, Table 1 [1] | Satisfaction (–2 to +2) for 23 life situations × 17 factors (e.g. waiting time, understandable forms, online services) | Shows where people struggle most with authorities – the core problem ClearPath solves |
-| `data/foreign_population_by_citizenship_2018_2025.csv` | Destatis, Central Register of Foreigners [2] | Foreign residents in Germany by citizenship, 2018–2025 | Shows the size and growth of a key user group facing a language barrier |
+| `data/life_events_satisfaction_2023.csv` | Destatis, Lebenslagenbefragung 2023, Table 1 [1] | How happy people were (–2 to +2) in 23 life situations, for 17 parts of the experience (e.g. waiting time, understandable forms, online services) | Shows where people struggle most with authorities – the core problem ClearPath solves |
+| `data/foreign_population_by_citizenship_2018_2025.csv` | Destatis, Central Register of Foreigners [2] | Foreign residents in Germany by citizenship, 2018–2025 | Shows the size and growth of a key user group that may face a language barrier |
 | Total population (83.5 million, end of 2025) | Destatis press release [3] | All people living in Germany | Shows the full market: everyone deals with authorities |
 
 **How the data was checked**
@@ -68,10 +70,10 @@ The data shows people struggle most with **understanding** (law, forms, official
 
 | Problem (from the data) | How AI helps |
 |---|---|
-| Understandable law (0.5), forms (0.8) and official letters (0.9) score low | AI explains complex official language in simple words – and can read a photo of a letter |
-| Online services score low (0.6) | One simple app where people ask any question, instead of searching many websites |
-| Waiting time and opening hours score low (0.7) | AI answers 24/7, in seconds |
-| Many residents don't speak German well | AI understands and answers in 10 languages, by voice and text |
+| Understanding the law, forms and official letters is rated below average | AI explains complex official language in simple words – and can read a photo of a letter |
+| Online services are among the worst-rated parts | One simple app where people ask any question, instead of searching many websites |
+| Waiting time and opening hours are rated below average | AI answers 24/7, in seconds |
+| Many residents may not speak German well | AI understands and answers in 10 languages, by voice and text |
 | Hard life situations (job loss, divorce, court) | AI gives a clear step-by-step plan and says when a human expert is needed |
 
 **What AI does NOT do (by design)**
