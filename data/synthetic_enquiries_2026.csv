@@ -1,0 +1,1001 @@
+enquiry_id,date,weekday,hour,outside_office_hours,topic,example_question,language,channel,routine_question,needs_human_expert,consultant_minutes,data_type
+E0001,2026-01-13,Tuesday,17,no,School & childcare,I got a letter from my child's school,English,Email,yes,no,22,SYNTHETIC
+E0002,2026-04-22,Wednesday,10,no,Documents & passport,Where do I get a certificate of good conduct?,Turkish,Email,yes,no,20,SYNTHETIC
+E0003,2026-10-29,Thursday,10,no,Address registration,"I moved flats, do I need to register again?",English,Walk-in,yes,no,18,SYNTHETIC
+E0004,2026-02-17,Tuesday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Email,yes,no,19,SYNTHETIC
+E0005,2026-07-13,Monday,8,no,Health & insurance,Which health insurance should I choose?,Hindi,Phone,yes,no,19,SYNTHETIC
+E0006,2026-05-29,Friday,22,yes,Address registration,"I moved flats, do I need to register again?",English,Email,no,no,12,SYNTHETIC
+E0007,2026-07-09,Thursday,11,no,Official letters,Is this letter a fine?,English,Email,yes,no,14,SYNTHETIC
+E0008,2026-07-14,Tuesday,10,no,Address registration,How do I register my new address?,Hindi,Walk-in,yes,no,13,SYNTHETIC
+E0009,2026-04-28,Tuesday,18,yes,Housing,How do I find a flat?,French,Phone,yes,no,25,SYNTHETIC
+E0010,2026-07-22,Wednesday,19,yes,School & childcare,How do I find a Kita place?,English,Email,yes,no,19,SYNTHETIC
+E0011,2026-10-27,Tuesday,13,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Phone,yes,no,18,SYNTHETIC
+E0012,2026-03-23,Monday,18,yes,Documents & passport,How do I renew my ID card?,Turkish,Email,yes,no,15,SYNTHETIC
+E0013,2026-10-11,Sunday,19,yes,Official letters,Is this letter a fine?,Polish,Walk-in,no,yes,37,SYNTHETIC
+E0014,2026-05-31,Sunday,13,yes,Official letters,Is this letter a fine?,English,Email,no,no,8,SYNTHETIC
+E0015,2026-02-24,Tuesday,19,yes,Address registration,How do I register my new address?,Arabic,Walk-in,yes,no,13,SYNTHETIC
+E0016,2026-01-01,Thursday,15,no,Health & insurance,How do I find a doctor who speaks English?,French,Walk-in,yes,no,13,SYNTHETIC
+E0017,2026-01-30,Friday,10,no,Official letters,Is this letter a fine?,Polish,Phone,yes,no,14,SYNTHETIC
+E0018,2026-10-09,Friday,9,no,Work & job loss,"I lost my job, what are my next steps?",Chinese,Walk-in,yes,no,6,SYNTHETIC
+E0019,2026-06-09,Tuesday,12,no,Car & transport,How do I convert my driving licence?,English,Phone,yes,no,19,SYNTHETIC
+E0020,2026-04-28,Tuesday,15,no,Health & insurance,Where is the nearest pharmacy open now?,Turkish,Phone,no,yes,34,SYNTHETIC
+E0021,2026-06-19,Friday,8,no,Legal & police,"My bike was stolen, where do I report it?",Hindi,Walk-in,no,yes,37,SYNTHETIC
+E0022,2026-05-05,Tuesday,18,yes,Health & insurance,Which health insurance should I choose?,Turkish,Phone,yes,no,12,SYNTHETIC
+E0023,2026-01-28,Wednesday,16,no,Work & job loss,"I lost my job, what are my next steps?",English,Phone,yes,no,11,SYNTHETIC
+E0024,2026-08-05,Wednesday,9,no,Work & job loss,"I lost my job, what are my next steps?",German,Walk-in,no,no,18,SYNTHETIC
+E0025,2026-01-26,Monday,16,no,Health & insurance,Which health insurance should I choose?,English,Email,yes,no,22,SYNTHETIC
+E0026,2026-07-25,Saturday,20,yes,Address registration,"I moved flats, do I need to register again?",English,Walk-in,yes,no,20,SYNTHETIC
+E0027,2026-08-05,Wednesday,16,no,Work & job loss,"I lost my job, what are my next steps?",English,Walk-in,yes,no,12,SYNTHETIC
+E0028,2026-10-05,Monday,8,no,Health & insurance,How do I find a doctor who speaks English?,Arabic,Walk-in,yes,no,10,SYNTHETIC
+E0029,2026-09-18,Friday,8,no,Address registration,How do I register my new address?,Chinese,Email,yes,no,13,SYNTHETIC
+E0030,2026-01-21,Wednesday,15,no,Health & insurance,Where is the nearest pharmacy open now?,German,Phone,yes,no,12,SYNTHETIC
+E0031,2026-06-10,Wednesday,10,no,Car & transport,How do I convert my driving licence?,English,Email,yes,no,14,SYNTHETIC
+E0032,2026-02-21,Saturday,8,yes,Health & insurance,How do I find a doctor who speaks English?,French,Walk-in,yes,no,19,SYNTHETIC
+E0033,2026-03-22,Sunday,13,yes,Official letters,Is this letter a fine?,English,Walk-in,yes,no,24,SYNTHETIC
+E0034,2026-02-23,Monday,21,yes,Official letters,What does this letter from the tax office mean?,French,Email,no,yes,38,SYNTHETIC
+E0035,2026-05-25,Monday,15,no,Address registration,"I moved flats, do I need to register again?",English,Walk-in,yes,no,12,SYNTHETIC
+E0036,2026-08-05,Wednesday,19,yes,Documents & passport,How do I renew my ID card?,Polish,Email,no,yes,34,SYNTHETIC
+E0037,2026-08-15,Saturday,14,yes,Official letters,What does this letter from the tax office mean?,Arabic,Walk-in,yes,no,24,SYNTHETIC
+E0038,2026-03-17,Tuesday,13,no,Health & insurance,How do I find a doctor who speaks English?,French,Walk-in,no,yes,49,SYNTHETIC
+E0039,2026-07-03,Friday,10,no,Tax & money,How do I get a tax ID?,Japanese,Email,no,yes,54,SYNTHETIC
+E0040,2026-05-02,Saturday,19,yes,Legal & police,"I need a lawyer, where do I start?",English,Email,yes,no,20,SYNTHETIC
+E0041,2026-07-30,Thursday,18,yes,Official letters,What does this letter from the tax office mean?,German,Phone,yes,no,14,SYNTHETIC
+E0042,2026-04-13,Monday,18,yes,Work & job loss,"I lost my job, what are my next steps?",English,Email,yes,no,24,SYNTHETIC
+E0043,2026-05-23,Saturday,19,yes,Work & job loss,My employer has not paid my salary,German,Phone,yes,no,12,SYNTHETIC
+E0044,2026-05-14,Thursday,9,no,Tax & money,Do I need to file a tax return?,Turkish,Phone,yes,no,11,SYNTHETIC
+E0045,2026-08-12,Wednesday,15,no,Housing,How do I find a flat?,German,Email,yes,no,12,SYNTHETIC
+E0046,2026-04-11,Saturday,12,yes,Housing,How do I find a flat?,Chinese,Email,no,yes,36,SYNTHETIC
+E0047,2026-03-05,Thursday,17,no,Car & transport,"I got a parking fine, what now?",Arabic,Phone,yes,no,11,SYNTHETIC
+E0048,2026-07-14,Tuesday,16,no,Car & transport,"I got a parking fine, what now?",German,Walk-in,yes,no,18,SYNTHETIC
+E0049,2026-04-18,Saturday,13,yes,Official letters,What does this letter from the tax office mean?,Arabic,Walk-in,yes,no,10,SYNTHETIC
+E0050,2026-03-28,Saturday,16,yes,Residence permit,Can I travel while my renewal is pending?,Turkish,Phone,no,yes,42,SYNTHETIC
+E0051,2026-05-01,Friday,16,no,Tax & money,Do I need to file a tax return?,Japanese,Email,no,yes,41,SYNTHETIC
+E0052,2026-08-22,Saturday,12,yes,Housing,How do I find a flat?,German,Phone,yes,no,16,SYNTHETIC
+E0053,2026-01-03,Saturday,20,yes,Address registration,I can't find an appointment for registration,Arabic,Phone,no,no,16,SYNTHETIC
+E0054,2026-03-04,Wednesday,13,no,Official letters,Is this letter a fine?,Turkish,Walk-in,yes,no,12,SYNTHETIC
+E0055,2026-09-16,Wednesday,13,no,Legal & police,"I need a lawyer, where do I start?",English,Phone,yes,no,20,SYNTHETIC
+E0056,2026-09-24,Thursday,13,no,School & childcare,I got a letter from my child's school,English,Phone,yes,no,23,SYNTHETIC
+E0057,2026-10-04,Sunday,8,yes,Official letters,"I got a letter from my health insurance, is it urgent?",German,Email,yes,no,17,SYNTHETIC
+E0058,2026-04-16,Thursday,19,yes,Work & job loss,My employer has not paid my salary,Chinese,Phone,no,yes,46,SYNTHETIC
+E0059,2026-10-22,Thursday,12,no,Tax & money,How do I get a tax ID?,Arabic,Email,no,yes,30,SYNTHETIC
+E0060,2026-04-23,Thursday,13,no,Housing,What is a Nebenkostenabrechnung?,English,Phone,no,yes,53,SYNTHETIC
+E0061,2026-07-27,Monday,17,no,Car & transport,"I got a parking fine, what now?",Turkish,Email,no,no,21,SYNTHETIC
+E0062,2026-08-08,Saturday,9,yes,Documents & passport,How do I renew my ID card?,German,Email,yes,no,14,SYNTHETIC
+E0063,2026-07-14,Tuesday,10,no,Official letters,Is this letter a fine?,Arabic,Walk-in,yes,no,18,SYNTHETIC
+E0064,2026-02-05,Thursday,18,yes,Official letters,What does this letter from the tax office mean?,English,Phone,yes,no,10,SYNTHETIC
+E0065,2026-03-06,Friday,13,no,Address registration,"I moved flats, do I need to register again?",English,Email,no,no,11,SYNTHETIC
+E0066,2026-02-28,Saturday,18,yes,Housing,What is a Nebenkostenabrechnung?,English,Phone,no,yes,42,SYNTHETIC
+E0067,2026-07-12,Sunday,12,yes,Official letters,What does this letter from the tax office mean?,Hindi,Phone,yes,no,12,SYNTHETIC
+E0068,2026-03-03,Tuesday,18,yes,Car & transport,How do I register my car?,German,Phone,yes,no,8,SYNTHETIC
+E0069,2026-06-24,Wednesday,6,yes,Health & insurance,How do I find a doctor who speaks English?,Hindi,Email,yes,no,11,SYNTHETIC
+E0070,2026-05-19,Tuesday,15,no,Housing,What is a Nebenkostenabrechnung?,German,Email,yes,no,17,SYNTHETIC
+E0071,2026-05-06,Wednesday,19,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Arabic,Email,no,yes,46,SYNTHETIC
+E0072,2026-09-11,Friday,19,yes,Official letters,"I got a letter from my health insurance, is it urgent?",German,Walk-in,yes,no,12,SYNTHETIC
+E0073,2026-05-22,Friday,14,no,Car & transport,How do I register my car?,Polish,Email,yes,no,15,SYNTHETIC
+E0074,2026-09-09,Wednesday,13,no,School & childcare,How does the school system work?,English,Email,no,yes,50,SYNTHETIC
+E0075,2026-10-25,Sunday,12,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Phone,yes,no,21,SYNTHETIC
+E0076,2026-03-03,Tuesday,17,no,Official letters,Is this letter a fine?,English,Phone,yes,no,15,SYNTHETIC
+E0077,2026-10-29,Thursday,22,yes,Work & job loss,"I lost my job, what are my next steps?",German,Phone,yes,no,18,SYNTHETIC
+E0078,2026-03-06,Friday,10,no,Car & transport,How do I register my car?,Chinese,Email,yes,no,17,SYNTHETIC
+E0079,2026-02-22,Sunday,19,yes,Housing,"My landlord wants to raise the rent, is that allowed?",English,Walk-in,yes,no,12,SYNTHETIC
+E0080,2026-02-03,Tuesday,12,no,Address registration,I can't find an appointment for registration,Hindi,Phone,no,yes,42,SYNTHETIC
+E0081,2026-06-05,Friday,8,no,Tax & money,How do I open a bank account?,Polish,Phone,no,yes,30,SYNTHETIC
+E0082,2026-08-19,Wednesday,20,yes,Health & insurance,How do I find a doctor who speaks English?,German,Email,yes,no,13,SYNTHETIC
+E0083,2026-02-20,Friday,21,yes,School & childcare,How do I find a Kita place?,Arabic,Phone,yes,no,13,SYNTHETIC
+E0084,2026-08-29,Saturday,11,yes,Work & job loss,My employer has not paid my salary,English,Walk-in,no,yes,35,SYNTHETIC
+E0085,2026-04-30,Thursday,20,yes,Documents & passport,How do I renew my ID card?,English,Phone,yes,no,9,SYNTHETIC
+E0086,2026-05-17,Sunday,18,yes,Address registration,How do I register my new address?,Polish,Email,no,yes,20,SYNTHETIC
+E0087,2026-05-28,Thursday,13,no,Tax & money,How do I open a bank account?,German,Phone,yes,no,12,SYNTHETIC
+E0088,2026-08-10,Monday,17,no,Documents & passport,"I lost my passport, what do I do?",Japanese,Walk-in,yes,no,17,SYNTHETIC
+E0089,2026-01-11,Sunday,23,yes,Health & insurance,How do I find a doctor who speaks English?,Arabic,Email,yes,no,23,SYNTHETIC
+E0090,2026-10-27,Tuesday,13,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,no,no,17,SYNTHETIC
+E0091,2026-03-24,Tuesday,11,no,Car & transport,How do I register my car?,English,Phone,yes,no,24,SYNTHETIC
+E0092,2026-03-01,Sunday,22,yes,Official letters,What does this letter from the tax office mean?,Turkish,Email,yes,no,12,SYNTHETIC
+E0093,2026-04-07,Tuesday,14,no,Work & job loss,Do I need to register with the job agency?,Arabic,Walk-in,yes,no,13,SYNTHETIC
+E0094,2026-09-06,Sunday,8,yes,Work & job loss,"I lost my job, what are my next steps?",Hindi,Phone,yes,no,16,SYNTHETIC
+E0095,2026-07-28,Tuesday,8,no,Documents & passport,"I lost my passport, what do I do?",German,Email,no,no,13,SYNTHETIC
+E0096,2026-05-20,Wednesday,12,no,Health & insurance,How do I find a doctor who speaks English?,Arabic,Phone,yes,no,16,SYNTHETIC
+E0097,2026-09-18,Friday,17,no,Legal & police,"I need a lawyer, where do I start?",German,Walk-in,no,yes,56,SYNTHETIC
+E0098,2026-01-02,Friday,10,no,Official letters,Is this letter a fine?,German,Phone,yes,no,19,SYNTHETIC
+E0099,2026-06-26,Friday,11,no,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,yes,no,24,SYNTHETIC
+E0100,2026-07-30,Thursday,7,yes,Tax & money,How do I get a tax ID?,German,Email,yes,no,11,SYNTHETIC
+E0101,2026-03-19,Thursday,14,no,Tax & money,Do I need to file a tax return?,French,Email,no,yes,27,SYNTHETIC
+E0102,2026-08-22,Saturday,6,yes,Health & insurance,Where is the nearest pharmacy open now?,Japanese,Phone,no,yes,40,SYNTHETIC
+E0103,2026-05-16,Saturday,11,yes,Housing,How do I find a flat?,German,Phone,yes,no,21,SYNTHETIC
+E0104,2026-09-07,Monday,19,yes,Car & transport,How do I convert my driving licence?,English,Email,no,yes,24,SYNTHETIC
+E0105,2026-04-27,Monday,17,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Phone,yes,no,8,SYNTHETIC
+E0106,2026-06-16,Tuesday,18,yes,Documents & passport,How do I renew my ID card?,German,Phone,no,yes,25,SYNTHETIC
+E0107,2026-04-03,Friday,9,no,Work & job loss,"I lost my job, what are my next steps?",German,Email,no,yes,50,SYNTHETIC
+E0108,2026-05-11,Monday,13,no,Official letters,"I got a letter from my health insurance, is it urgent?",French,Email,no,no,10,SYNTHETIC
+E0109,2026-08-15,Saturday,21,yes,Address registration,"I moved flats, do I need to register again?",Spanish,Phone,yes,no,22,SYNTHETIC
+E0110,2026-09-05,Saturday,8,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Japanese,Phone,yes,no,13,SYNTHETIC
+E0111,2026-07-22,Wednesday,10,no,Residence permit,Can I travel while my renewal is pending?,Hindi,Walk-in,yes,no,15,SYNTHETIC
+E0112,2026-04-28,Tuesday,15,no,Legal & police,Someone scammed me online,English,Phone,no,yes,37,SYNTHETIC
+E0113,2026-03-12,Thursday,15,no,Housing,How do I find a flat?,German,Phone,yes,no,13,SYNTHETIC
+E0114,2026-06-17,Wednesday,17,no,Legal & police,"My bike was stolen, where do I report it?",Polish,Walk-in,no,yes,50,SYNTHETIC
+E0115,2026-09-14,Monday,20,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Phone,yes,no,18,SYNTHETIC
+E0116,2026-02-08,Sunday,9,yes,Address registration,I can't find an appointment for registration,Turkish,Phone,no,no,10,SYNTHETIC
+E0117,2026-10-13,Tuesday,12,no,Tax & money,How do I open a bank account?,Hindi,Phone,yes,no,10,SYNTHETIC
+E0118,2026-07-10,Friday,8,no,Official letters,Is this letter a fine?,German,Email,yes,no,14,SYNTHETIC
+E0119,2026-08-26,Wednesday,20,yes,School & childcare,How does the school system work?,Japanese,Phone,yes,no,23,SYNTHETIC
+E0120,2026-10-03,Saturday,9,yes,Official letters,Is this letter a fine?,Hindi,Email,yes,no,24,SYNTHETIC
+E0121,2026-03-21,Saturday,20,yes,Health & insurance,How do I find a doctor who speaks English?,English,Phone,yes,no,6,SYNTHETIC
+E0122,2026-05-01,Friday,19,yes,Work & job loss,My employer has not paid my salary,German,Walk-in,no,yes,24,SYNTHETIC
+E0123,2026-02-01,Sunday,12,yes,School & childcare,I got a letter from my child's school,English,Email,yes,no,18,SYNTHETIC
+E0124,2026-01-26,Monday,18,yes,Residence permit,How do I renew my residence permit?,Polish,Phone,no,yes,31,SYNTHETIC
+E0125,2026-10-11,Sunday,9,yes,Tax & money,Do I need to file a tax return?,Polish,Email,no,yes,46,SYNTHETIC
+E0126,2026-03-16,Monday,22,yes,Official letters,What does this letter from the tax office mean?,Turkish,Phone,yes,no,12,SYNTHETIC
+E0127,2026-05-02,Saturday,15,yes,Documents & passport,How do I renew my ID card?,Arabic,Email,no,yes,39,SYNTHETIC
+E0128,2026-07-05,Sunday,14,yes,Work & job loss,My employer has not paid my salary,English,Email,no,yes,45,SYNTHETIC
+E0129,2026-09-24,Thursday,11,no,Car & transport,"I got a parking fine, what now?",Hindi,Email,yes,no,25,SYNTHETIC
+E0130,2026-02-07,Saturday,20,yes,Legal & police,"My bike was stolen, where do I report it?",English,Phone,no,yes,40,SYNTHETIC
+E0131,2026-10-08,Thursday,17,no,School & childcare,How does the school system work?,English,Email,yes,no,13,SYNTHETIC
+E0132,2026-10-10,Saturday,17,yes,Tax & money,How do I get a tax ID?,French,Email,no,yes,51,SYNTHETIC
+E0133,2026-07-24,Friday,12,no,Tax & money,How do I get a tax ID?,Chinese,Email,no,yes,27,SYNTHETIC
+E0134,2026-02-16,Monday,19,yes,Work & job loss,"I lost my job, what are my next steps?",Hindi,Phone,no,yes,47,SYNTHETIC
+E0135,2026-01-31,Saturday,15,yes,Address registration,I can't find an appointment for registration,Chinese,Email,yes,no,18,SYNTHETIC
+E0136,2026-01-27,Tuesday,22,yes,Legal & police,Someone scammed me online,Arabic,Phone,yes,no,18,SYNTHETIC
+E0137,2026-02-25,Wednesday,11,no,Work & job loss,Do I need to register with the job agency?,Spanish,Walk-in,yes,no,14,SYNTHETIC
+E0138,2026-10-13,Tuesday,7,yes,Tax & money,How do I get a tax ID?,English,Phone,yes,no,19,SYNTHETIC
+E0139,2026-06-23,Tuesday,11,no,Housing,"My landlord wants to raise the rent, is that allowed?",English,Email,no,yes,49,SYNTHETIC
+E0140,2026-09-29,Tuesday,10,no,Documents & passport,How do I renew my ID card?,German,Phone,yes,no,21,SYNTHETIC
+E0141,2026-02-13,Friday,19,yes,Residence permit,How do I renew my residence permit?,English,Email,no,yes,40,SYNTHETIC
+E0142,2026-08-15,Saturday,12,yes,Work & job loss,My employer has not paid my salary,English,Email,no,yes,37,SYNTHETIC
+E0143,2026-10-31,Saturday,13,yes,Official letters,What does this letter from the tax office mean?,English,Walk-in,yes,no,10,SYNTHETIC
+E0144,2026-05-11,Monday,11,no,Housing,What is a Nebenkostenabrechnung?,Hindi,Phone,no,yes,48,SYNTHETIC
+E0145,2026-04-28,Tuesday,14,no,Official letters,What does this letter from the tax office mean?,German,Email,yes,no,24,SYNTHETIC
+E0146,2026-06-10,Wednesday,15,no,Documents & passport,How do I renew my ID card?,English,Email,yes,no,19,SYNTHETIC
+E0147,2026-03-29,Sunday,18,yes,Residence permit,How do I renew my residence permit?,English,Email,yes,no,17,SYNTHETIC
+E0148,2026-07-22,Wednesday,19,yes,Health & insurance,Which health insurance should I choose?,English,Email,yes,no,14,SYNTHETIC
+E0149,2026-04-10,Friday,20,yes,Health & insurance,Which health insurance should I choose?,English,Phone,yes,no,19,SYNTHETIC
+E0150,2026-03-20,Friday,17,no,Address registration,I can't find an appointment for registration,German,Walk-in,yes,no,7,SYNTHETIC
+E0151,2026-08-18,Tuesday,16,no,Housing,How do I find a flat?,German,Email,yes,no,19,SYNTHETIC
+E0152,2026-06-05,Friday,18,yes,Work & job loss,"I lost my job, what are my next steps?",German,Email,yes,no,15,SYNTHETIC
+E0153,2026-05-27,Wednesday,8,no,Documents & passport,How do I renew my ID card?,Arabic,Walk-in,no,no,11,SYNTHETIC
+E0154,2026-01-22,Thursday,13,no,Housing,What is a Nebenkostenabrechnung?,Turkish,Email,yes,no,11,SYNTHETIC
+E0155,2026-08-19,Wednesday,8,no,Residence permit,How do I renew my residence permit?,English,Email,yes,no,14,SYNTHETIC
+E0156,2026-09-26,Saturday,14,yes,Residence permit,My permit expires soon and I have no appointment,French,Phone,no,yes,28,SYNTHETIC
+E0157,2026-01-27,Tuesday,18,yes,Housing,What is a Nebenkostenabrechnung?,English,Walk-in,yes,no,21,SYNTHETIC
+E0158,2026-03-18,Wednesday,11,no,Residence permit,My permit expires soon and I have no appointment,German,Email,yes,no,19,SYNTHETIC
+E0159,2026-03-08,Sunday,15,yes,Car & transport,How do I convert my driving licence?,Turkish,Walk-in,yes,no,9,SYNTHETIC
+E0160,2026-09-27,Sunday,8,yes,Housing,"My landlord wants to raise the rent, is that allowed?",German,Phone,yes,no,21,SYNTHETIC
+E0161,2026-09-06,Sunday,9,yes,Address registration,I can't find an appointment for registration,Polish,Walk-in,yes,no,13,SYNTHETIC
+E0162,2026-01-20,Tuesday,16,no,Tax & money,How do I open a bank account?,German,Phone,yes,no,23,SYNTHETIC
+E0163,2026-03-26,Thursday,17,no,Tax & money,How do I get a tax ID?,Turkish,Walk-in,no,yes,30,SYNTHETIC
+E0164,2026-04-30,Thursday,14,no,Housing,What is a Nebenkostenabrechnung?,French,Phone,yes,no,21,SYNTHETIC
+E0165,2026-10-20,Tuesday,22,yes,Car & transport,How do I convert my driving licence?,Spanish,Walk-in,yes,no,10,SYNTHETIC
+E0166,2026-05-09,Saturday,7,yes,Address registration,How do I register my new address?,Hindi,Email,yes,no,19,SYNTHETIC
+E0167,2026-02-12,Thursday,17,no,Address registration,How do I register my new address?,Spanish,Walk-in,no,no,18,SYNTHETIC
+E0168,2026-08-01,Saturday,7,yes,Legal & police,"My bike was stolen, where do I report it?",German,Phone,no,yes,49,SYNTHETIC
+E0169,2026-06-13,Saturday,20,yes,Address registration,"I moved flats, do I need to register again?",French,Email,yes,no,16,SYNTHETIC
+E0170,2026-08-29,Saturday,13,yes,Tax & money,Do I need to file a tax return?,English,Phone,no,yes,35,SYNTHETIC
+E0171,2026-09-28,Monday,12,no,Address registration,I can't find an appointment for registration,Polish,Email,yes,no,18,SYNTHETIC
+E0172,2026-09-13,Sunday,15,yes,Address registration,I can't find an appointment for registration,Arabic,Email,no,yes,45,SYNTHETIC
+E0173,2026-01-01,Thursday,15,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Email,yes,no,14,SYNTHETIC
+E0174,2026-09-17,Thursday,14,no,Health & insurance,Where is the nearest pharmacy open now?,German,Phone,yes,no,13,SYNTHETIC
+E0175,2026-07-02,Thursday,18,yes,Housing,How do I find a flat?,Polish,Phone,yes,no,9,SYNTHETIC
+E0176,2026-06-23,Tuesday,18,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Japanese,Email,yes,no,9,SYNTHETIC
+E0177,2026-03-11,Wednesday,8,no,Address registration,How do I register my new address?,French,Phone,yes,no,15,SYNTHETIC
+E0178,2026-07-23,Thursday,23,yes,Official letters,Is this letter a fine?,English,Phone,yes,no,16,SYNTHETIC
+E0179,2026-06-19,Friday,10,no,Housing,What is a Nebenkostenabrechnung?,German,Phone,yes,no,11,SYNTHETIC
+E0180,2026-07-08,Wednesday,20,yes,Car & transport,How do I register my car?,German,Email,yes,no,18,SYNTHETIC
+E0181,2026-04-03,Friday,14,no,Residence permit,My permit expires soon and I have no appointment,German,Email,no,yes,53,SYNTHETIC
+E0182,2026-08-16,Sunday,11,yes,Address registration,"I moved flats, do I need to register again?",Turkish,Email,no,yes,47,SYNTHETIC
+E0183,2026-01-30,Friday,8,no,School & childcare,How do I find a Kita place?,English,Email,yes,no,17,SYNTHETIC
+E0184,2026-01-18,Sunday,8,yes,Housing,How do I find a flat?,German,Phone,no,yes,26,SYNTHETIC
+E0185,2026-03-20,Friday,16,no,Health & insurance,Where is the nearest pharmacy open now?,German,Phone,yes,no,16,SYNTHETIC
+E0186,2026-02-28,Saturday,7,yes,Official letters,Is this letter a fine?,English,Walk-in,yes,no,8,SYNTHETIC
+E0187,2026-04-20,Monday,23,yes,Car & transport,How do I convert my driving licence?,German,Walk-in,no,no,12,SYNTHETIC
+E0188,2026-02-14,Saturday,18,yes,Work & job loss,My employer has not paid my salary,German,Phone,no,no,15,SYNTHETIC
+E0189,2026-06-03,Wednesday,19,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Walk-in,no,no,9,SYNTHETIC
+E0190,2026-05-02,Saturday,18,yes,Housing,How do I find a flat?,Arabic,Email,no,yes,26,SYNTHETIC
+E0191,2026-03-08,Sunday,15,yes,Residence permit,Can I travel while my renewal is pending?,German,Email,no,yes,26,SYNTHETIC
+E0192,2026-10-22,Thursday,8,no,Work & job loss,Do I need to register with the job agency?,German,Email,yes,no,33,SYNTHETIC
+E0193,2026-10-10,Saturday,16,yes,Address registration,How do I register my new address?,Spanish,Email,no,no,5,SYNTHETIC
+E0194,2026-03-24,Tuesday,11,no,Official letters,Is this letter a fine?,French,Walk-in,yes,no,20,SYNTHETIC
+E0195,2026-10-10,Saturday,10,yes,Official letters,Is this letter a fine?,Chinese,Phone,yes,no,21,SYNTHETIC
+E0196,2026-06-22,Monday,19,yes,School & childcare,How do I find a Kita place?,English,Walk-in,yes,no,19,SYNTHETIC
+E0197,2026-05-16,Saturday,16,yes,Housing,How do I find a flat?,Arabic,Email,yes,no,11,SYNTHETIC
+E0198,2026-05-06,Wednesday,18,yes,Official letters,What does this letter from the tax office mean?,Hindi,Phone,yes,no,11,SYNTHETIC
+E0199,2026-08-26,Wednesday,9,no,Work & job loss,Do I need to register with the job agency?,Japanese,Phone,yes,no,13,SYNTHETIC
+E0200,2026-10-15,Thursday,8,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Phone,yes,no,7,SYNTHETIC
+E0201,2026-07-16,Thursday,19,yes,Official letters,Is this letter a fine?,Hindi,Phone,no,no,22,SYNTHETIC
+E0202,2026-09-21,Monday,13,no,Address registration,How do I register my new address?,Chinese,Email,yes,no,10,SYNTHETIC
+E0203,2026-04-21,Tuesday,15,no,Residence permit,Can I travel while my renewal is pending?,Turkish,Phone,no,yes,37,SYNTHETIC
+E0204,2026-02-25,Wednesday,13,no,Documents & passport,How do I renew my ID card?,German,Email,yes,no,22,SYNTHETIC
+E0205,2026-04-10,Friday,12,no,Health & insurance,Where is the nearest pharmacy open now?,Hindi,Phone,yes,no,9,SYNTHETIC
+E0206,2026-07-21,Tuesday,12,no,Residence permit,My permit expires soon and I have no appointment,Polish,Phone,yes,no,17,SYNTHETIC
+E0207,2026-09-14,Monday,7,yes,Health & insurance,Where is the nearest pharmacy open now?,German,Email,no,yes,36,SYNTHETIC
+E0208,2026-06-17,Wednesday,21,yes,Health & insurance,Where is the nearest pharmacy open now?,Hindi,Phone,yes,no,6,SYNTHETIC
+E0209,2026-09-18,Friday,14,no,Official letters,Is this letter a fine?,English,Email,yes,no,17,SYNTHETIC
+E0210,2026-01-14,Wednesday,15,no,Official letters,Is this letter a fine?,Arabic,Email,yes,no,11,SYNTHETIC
+E0211,2026-03-29,Sunday,14,yes,Health & insurance,Which health insurance should I choose?,English,Walk-in,yes,no,8,SYNTHETIC
+E0212,2026-01-10,Saturday,13,yes,Documents & passport,"I lost my passport, what do I do?",German,Walk-in,yes,no,21,SYNTHETIC
+E0213,2026-02-01,Sunday,17,yes,Legal & police,"I need a lawyer, where do I start?",Arabic,Phone,no,yes,7,SYNTHETIC
+E0214,2026-09-30,Wednesday,11,no,Address registration,I can't find an appointment for registration,Hindi,Walk-in,yes,no,8,SYNTHETIC
+E0215,2026-09-05,Saturday,9,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Email,yes,no,17,SYNTHETIC
+E0216,2026-09-08,Tuesday,11,no,Car & transport,How do I register my car?,English,Phone,no,no,28,SYNTHETIC
+E0217,2026-07-14,Tuesday,20,yes,Car & transport,How do I convert my driving licence?,English,Email,yes,no,15,SYNTHETIC
+E0218,2026-08-15,Saturday,16,yes,Official letters,Is this letter a fine?,English,Email,yes,no,12,SYNTHETIC
+E0219,2026-02-25,Wednesday,15,no,Official letters,Is this letter a fine?,English,Phone,yes,no,12,SYNTHETIC
+E0220,2026-08-30,Sunday,8,yes,Official letters,Is this letter a fine?,Japanese,Phone,yes,no,10,SYNTHETIC
+E0221,2026-09-01,Tuesday,13,no,School & childcare,How do I find a Kita place?,Turkish,Phone,no,no,12,SYNTHETIC
+E0222,2026-01-20,Tuesday,20,yes,Housing,"My landlord wants to raise the rent, is that allowed?",Chinese,Phone,no,yes,53,SYNTHETIC
+E0223,2026-09-11,Friday,9,no,Tax & money,How do I get a tax ID?,Arabic,Phone,no,no,15,SYNTHETIC
+E0224,2026-05-26,Tuesday,13,no,Residence permit,How do I renew my residence permit?,Spanish,Email,yes,no,16,SYNTHETIC
+E0225,2026-02-27,Friday,11,no,Address registration,"I moved flats, do I need to register again?",Polish,Email,yes,no,15,SYNTHETIC
+E0226,2026-03-31,Tuesday,15,no,Housing,What is a Nebenkostenabrechnung?,Arabic,Phone,yes,no,14,SYNTHETIC
+E0227,2026-04-05,Sunday,22,yes,Car & transport,"I got a parking fine, what now?",Polish,Walk-in,no,no,20,SYNTHETIC
+E0228,2026-10-21,Wednesday,5,yes,Official letters,What does this letter from the tax office mean?,Turkish,Email,yes,no,15,SYNTHETIC
+E0229,2026-09-15,Tuesday,20,yes,Address registration,"I moved flats, do I need to register again?",German,Phone,yes,no,12,SYNTHETIC
+E0230,2026-09-02,Wednesday,9,no,Residence permit,My permit expires soon and I have no appointment,Hindi,Walk-in,yes,no,8,SYNTHETIC
+E0231,2026-04-22,Wednesday,17,no,Housing,How do I find a flat?,Hindi,Phone,yes,no,16,SYNTHETIC
+E0232,2026-02-01,Sunday,19,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,yes,no,9,SYNTHETIC
+E0233,2026-03-01,Sunday,16,yes,Health & insurance,Which health insurance should I choose?,German,Email,yes,no,19,SYNTHETIC
+E0234,2026-01-30,Friday,14,no,Work & job loss,"I lost my job, what are my next steps?",German,Walk-in,yes,no,12,SYNTHETIC
+E0235,2026-10-24,Saturday,8,yes,Housing,"My landlord wants to raise the rent, is that allowed?",Japanese,Email,yes,no,13,SYNTHETIC
+E0236,2026-04-03,Friday,17,no,Official letters,Is this letter a fine?,Japanese,Phone,no,no,15,SYNTHETIC
+E0237,2026-08-18,Tuesday,19,yes,Legal & police,Someone scammed me online,English,Walk-in,yes,no,12,SYNTHETIC
+E0238,2026-10-03,Saturday,12,yes,Address registration,How do I register my new address?,Polish,Walk-in,no,no,8,SYNTHETIC
+E0239,2026-10-06,Tuesday,12,no,Work & job loss,"I lost my job, what are my next steps?",English,Walk-in,no,yes,41,SYNTHETIC
+E0240,2026-02-27,Friday,7,yes,Car & transport,How do I convert my driving licence?,English,Phone,yes,no,21,SYNTHETIC
+E0241,2026-08-17,Monday,15,no,School & childcare,How do I find a Kita place?,Arabic,Walk-in,yes,no,15,SYNTHETIC
+E0242,2026-03-13,Friday,14,no,Housing,How do I find a flat?,Arabic,Email,no,yes,30,SYNTHETIC
+E0243,2026-06-14,Sunday,10,yes,Housing,What is a Nebenkostenabrechnung?,English,Walk-in,no,no,10,SYNTHETIC
+E0244,2026-03-31,Tuesday,15,no,Tax & money,How do I get a tax ID?,Chinese,Email,yes,no,14,SYNTHETIC
+E0245,2026-06-13,Saturday,16,yes,Housing,"My landlord wants to raise the rent, is that allowed?",Spanish,Phone,yes,no,18,SYNTHETIC
+E0246,2026-08-26,Wednesday,20,yes,Car & transport,How do I register my car?,Arabic,Phone,no,no,21,SYNTHETIC
+E0247,2026-06-19,Friday,16,no,Official letters,What does this letter from the tax office mean?,English,Phone,yes,no,22,SYNTHETIC
+E0248,2026-01-21,Wednesday,19,yes,School & childcare,I got a letter from my child's school,Turkish,Phone,yes,no,19,SYNTHETIC
+E0249,2026-06-20,Saturday,11,yes,Address registration,I can't find an appointment for registration,Japanese,Email,yes,no,18,SYNTHETIC
+E0250,2026-04-15,Wednesday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Email,yes,no,23,SYNTHETIC
+E0251,2026-05-14,Thursday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",French,Phone,yes,no,18,SYNTHETIC
+E0252,2026-10-16,Friday,19,yes,Work & job loss,My employer has not paid my salary,Chinese,Email,yes,no,7,SYNTHETIC
+E0253,2026-03-20,Friday,9,no,Work & job loss,My employer has not paid my salary,Turkish,Email,no,yes,33,SYNTHETIC
+E0254,2026-09-08,Tuesday,22,yes,Official letters,What does this letter from the tax office mean?,Hindi,Phone,yes,no,13,SYNTHETIC
+E0255,2026-10-07,Wednesday,13,no,Address registration,How do I register my new address?,Spanish,Phone,yes,no,14,SYNTHETIC
+E0256,2026-01-25,Sunday,17,yes,Tax & money,Do I need to file a tax return?,English,Phone,yes,no,14,SYNTHETIC
+E0257,2026-08-22,Saturday,12,yes,Address registration,"I moved flats, do I need to register again?",English,Email,yes,no,11,SYNTHETIC
+E0258,2026-01-09,Friday,14,no,Work & job loss,Do I need to register with the job agency?,English,Walk-in,no,yes,32,SYNTHETIC
+E0259,2026-04-02,Thursday,8,no,Car & transport,How do I register my car?,English,Phone,no,yes,44,SYNTHETIC
+E0260,2026-02-10,Tuesday,12,no,Housing,How do I find a flat?,English,Email,yes,no,18,SYNTHETIC
+E0261,2026-01-17,Saturday,8,yes,Tax & money,Do I need to file a tax return?,English,Walk-in,yes,no,16,SYNTHETIC
+E0262,2026-06-19,Friday,15,no,School & childcare,I got a letter from my child's school,French,Phone,yes,no,15,SYNTHETIC
+E0263,2026-10-18,Sunday,13,yes,Legal & police,Someone scammed me online,Arabic,Phone,no,yes,60,SYNTHETIC
+E0264,2026-06-11,Thursday,6,yes,Legal & police,"My bike was stolen, where do I report it?",Polish,Email,no,yes,50,SYNTHETIC
+E0265,2026-02-09,Monday,11,no,Work & job loss,My employer has not paid my salary,German,Walk-in,yes,no,19,SYNTHETIC
+E0266,2026-02-10,Tuesday,14,no,Address registration,"I moved flats, do I need to register again?",English,Phone,yes,no,9,SYNTHETIC
+E0267,2026-07-23,Thursday,22,yes,School & childcare,How do I find a Kita place?,German,Walk-in,yes,no,16,SYNTHETIC
+E0268,2026-10-27,Tuesday,16,no,Work & job loss,My employer has not paid my salary,English,Phone,no,yes,29,SYNTHETIC
+E0269,2026-05-18,Monday,9,no,Documents & passport,"I lost my passport, what do I do?",English,Walk-in,yes,no,15,SYNTHETIC
+E0270,2026-05-19,Tuesday,8,no,Work & job loss,Do I need to register with the job agency?,German,Email,no,yes,31,SYNTHETIC
+E0271,2026-01-14,Wednesday,8,no,Work & job loss,"I lost my job, what are my next steps?",English,Phone,yes,no,17,SYNTHETIC
+E0272,2026-10-14,Wednesday,20,yes,Documents & passport,"I lost my passport, what do I do?",Hindi,Phone,yes,no,5,SYNTHETIC
+E0273,2026-05-18,Monday,13,no,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Phone,no,yes,30,SYNTHETIC
+E0274,2026-09-11,Friday,15,no,Residence permit,How do I renew my residence permit?,English,Phone,no,yes,44,SYNTHETIC
+E0275,2026-07-14,Tuesday,18,yes,Work & job loss,My employer has not paid my salary,Japanese,Phone,no,yes,31,SYNTHETIC
+E0276,2026-04-13,Monday,13,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Email,yes,no,23,SYNTHETIC
+E0277,2026-10-22,Thursday,18,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Walk-in,yes,no,16,SYNTHETIC
+E0278,2026-10-09,Friday,7,yes,Address registration,How do I register my new address?,German,Phone,no,no,10,SYNTHETIC
+E0279,2026-07-29,Wednesday,16,no,Car & transport,How do I convert my driving licence?,Hindi,Walk-in,no,yes,38,SYNTHETIC
+E0280,2026-09-03,Thursday,15,no,Documents & passport,Where do I get a certificate of good conduct?,German,Phone,no,no,19,SYNTHETIC
+E0281,2026-10-02,Friday,15,no,Residence permit,How do I renew my residence permit?,Turkish,Phone,yes,no,15,SYNTHETIC
+E0282,2026-07-24,Friday,22,yes,Residence permit,My permit expires soon and I have no appointment,English,Phone,no,yes,55,SYNTHETIC
+E0283,2026-09-23,Wednesday,14,no,Address registration,I can't find an appointment for registration,Arabic,Email,yes,no,11,SYNTHETIC
+E0284,2026-01-13,Tuesday,13,no,Official letters,What does this letter from the tax office mean?,English,Walk-in,no,no,19,SYNTHETIC
+E0285,2026-06-09,Tuesday,11,no,Address registration,I can't find an appointment for registration,Hindi,Phone,yes,no,14,SYNTHETIC
+E0286,2026-02-28,Saturday,6,yes,Official letters,What does this letter from the tax office mean?,Chinese,Email,yes,no,17,SYNTHETIC
+E0287,2026-10-10,Saturday,9,yes,Health & insurance,Which health insurance should I choose?,English,Email,no,no,16,SYNTHETIC
+E0288,2026-04-12,Sunday,13,yes,Work & job loss,"I lost my job, what are my next steps?",English,Walk-in,yes,no,20,SYNTHETIC
+E0289,2026-02-02,Monday,15,no,Housing,"My landlord wants to raise the rent, is that allowed?",English,Walk-in,yes,no,13,SYNTHETIC
+E0290,2026-06-10,Wednesday,15,no,Health & insurance,How do I find a doctor who speaks English?,German,Email,yes,no,17,SYNTHETIC
+E0291,2026-06-02,Tuesday,20,yes,Address registration,How do I register my new address?,English,Email,yes,no,14,SYNTHETIC
+E0292,2026-08-03,Monday,15,no,Health & insurance,How do I find a doctor who speaks English?,Turkish,Email,yes,no,18,SYNTHETIC
+E0293,2026-03-30,Monday,14,no,School & childcare,How do I find a Kita place?,Spanish,Walk-in,yes,no,13,SYNTHETIC
+E0294,2026-04-10,Friday,18,yes,Work & job loss,Do I need to register with the job agency?,German,Email,yes,no,20,SYNTHETIC
+E0295,2026-08-16,Sunday,13,yes,Car & transport,"I got a parking fine, what now?",English,Phone,no,yes,57,SYNTHETIC
+E0296,2026-08-23,Sunday,15,yes,Official letters,Is this letter a fine?,English,Phone,yes,no,17,SYNTHETIC
+E0297,2026-07-07,Tuesday,14,no,Housing,What is a Nebenkostenabrechnung?,English,Walk-in,yes,no,12,SYNTHETIC
+E0298,2026-06-02,Tuesday,19,yes,Housing,What is a Nebenkostenabrechnung?,German,Walk-in,no,yes,43,SYNTHETIC
+E0299,2026-03-02,Monday,18,yes,Work & job loss,Do I need to register with the job agency?,Spanish,Email,no,yes,45,SYNTHETIC
+E0300,2026-03-13,Friday,18,yes,Work & job loss,My employer has not paid my salary,German,Phone,yes,no,9,SYNTHETIC
+E0301,2026-06-15,Monday,22,yes,Health & insurance,Where is the nearest pharmacy open now?,Spanish,Phone,yes,no,21,SYNTHETIC
+E0302,2026-07-30,Thursday,20,yes,Housing,"My landlord wants to raise the rent, is that allowed?",Hindi,Phone,no,no,13,SYNTHETIC
+E0303,2026-06-14,Sunday,19,yes,Address registration,"I moved flats, do I need to register again?",Turkish,Phone,yes,no,8,SYNTHETIC
+E0304,2026-02-17,Tuesday,12,no,Documents & passport,How do I renew my ID card?,German,Email,yes,no,15,SYNTHETIC
+E0305,2026-02-17,Tuesday,17,no,Health & insurance,Where is the nearest pharmacy open now?,German,Walk-in,yes,no,14,SYNTHETIC
+E0306,2026-09-11,Friday,10,no,Tax & money,How do I open a bank account?,English,Walk-in,yes,no,16,SYNTHETIC
+E0307,2026-01-25,Sunday,7,yes,Housing,"My landlord wants to raise the rent, is that allowed?",German,Phone,yes,no,26,SYNTHETIC
+E0308,2026-04-14,Tuesday,23,yes,Residence permit,My permit expires soon and I have no appointment,English,Walk-in,no,no,16,SYNTHETIC
+E0309,2026-07-04,Saturday,10,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Walk-in,no,no,18,SYNTHETIC
+E0310,2026-02-16,Monday,17,no,Work & job loss,Do I need to register with the job agency?,English,Email,no,yes,49,SYNTHETIC
+E0311,2026-08-16,Sunday,5,yes,Health & insurance,Which health insurance should I choose?,German,Phone,yes,no,20,SYNTHETIC
+E0312,2026-02-22,Sunday,8,yes,Documents & passport,How do I renew my ID card?,Polish,Walk-in,yes,no,15,SYNTHETIC
+E0313,2026-03-15,Sunday,8,yes,Address registration,How do I register my new address?,Turkish,Phone,yes,no,17,SYNTHETIC
+E0314,2026-08-15,Saturday,19,yes,Work & job loss,"I lost my job, what are my next steps?",English,Phone,no,yes,48,SYNTHETIC
+E0315,2026-06-29,Monday,21,yes,Housing,How do I find a flat?,Turkish,Email,yes,no,15,SYNTHETIC
+E0316,2026-01-14,Wednesday,19,yes,Official letters,Is this letter a fine?,Turkish,Phone,yes,no,17,SYNTHETIC
+E0317,2026-01-28,Wednesday,18,yes,Work & job loss,My employer has not paid my salary,Turkish,Email,yes,no,12,SYNTHETIC
+E0318,2026-07-04,Saturday,21,yes,Residence permit,Can I travel while my renewal is pending?,German,Email,no,yes,45,SYNTHETIC
+E0319,2026-08-30,Sunday,21,yes,Address registration,How do I register my new address?,Chinese,Walk-in,yes,no,19,SYNTHETIC
+E0320,2026-05-27,Wednesday,15,no,Work & job loss,My employer has not paid my salary,German,Email,yes,no,17,SYNTHETIC
+E0321,2026-03-20,Friday,10,no,Health & insurance,Where is the nearest pharmacy open now?,German,Email,yes,no,18,SYNTHETIC
+E0322,2026-02-03,Tuesday,11,no,Housing,"My landlord wants to raise the rent, is that allowed?",English,Phone,no,no,24,SYNTHETIC
+E0323,2026-08-21,Friday,15,no,Work & job loss,"I lost my job, what are my next steps?",English,Email,no,yes,33,SYNTHETIC
+E0324,2026-03-25,Wednesday,14,no,Car & transport,How do I register my car?,English,Phone,yes,no,9,SYNTHETIC
+E0325,2026-05-18,Monday,17,no,Housing,What is a Nebenkostenabrechnung?,English,Phone,no,yes,47,SYNTHETIC
+E0326,2026-10-23,Friday,15,no,Car & transport,How do I convert my driving licence?,German,Email,yes,no,12,SYNTHETIC
+E0327,2026-05-11,Monday,18,yes,Official letters,What does this letter from the tax office mean?,English,Walk-in,yes,no,21,SYNTHETIC
+E0328,2026-08-30,Sunday,12,yes,Official letters,What does this letter from the tax office mean?,Arabic,Walk-in,yes,no,20,SYNTHETIC
+E0329,2026-08-03,Monday,10,no,Housing,"My landlord wants to raise the rent, is that allowed?",Arabic,Phone,no,yes,48,SYNTHETIC
+E0330,2026-01-27,Tuesday,9,no,Car & transport,"I got a parking fine, what now?",English,Email,no,no,13,SYNTHETIC
+E0331,2026-06-09,Tuesday,11,no,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Phone,yes,no,17,SYNTHETIC
+E0332,2026-09-10,Thursday,23,yes,Official letters,Is this letter a fine?,Polish,Phone,yes,no,21,SYNTHETIC
+E0333,2026-07-29,Wednesday,6,yes,Documents & passport,How do I renew my ID card?,English,Email,yes,no,15,SYNTHETIC
+E0334,2026-06-07,Sunday,8,yes,Tax & money,How do I get a tax ID?,Japanese,Walk-in,yes,no,14,SYNTHETIC
+E0335,2026-05-24,Sunday,8,yes,Address registration,"I moved flats, do I need to register again?",German,Email,no,no,7,SYNTHETIC
+E0336,2026-09-16,Wednesday,9,no,Health & insurance,Where is the nearest pharmacy open now?,English,Email,yes,no,14,SYNTHETIC
+E0337,2026-05-30,Saturday,10,yes,Address registration,"I moved flats, do I need to register again?",German,Phone,yes,no,13,SYNTHETIC
+E0338,2026-03-11,Wednesday,18,yes,Residence permit,How do I renew my residence permit?,German,Phone,yes,no,7,SYNTHETIC
+E0339,2026-07-03,Friday,21,yes,Address registration,How do I register my new address?,Polish,Phone,yes,no,15,SYNTHETIC
+E0340,2026-01-21,Wednesday,10,no,Car & transport,How do I register my car?,English,Phone,yes,no,18,SYNTHETIC
+E0341,2026-06-03,Wednesday,10,no,Health & insurance,Where is the nearest pharmacy open now?,Arabic,Phone,yes,no,10,SYNTHETIC
+E0342,2026-03-13,Friday,8,no,Documents & passport,"I lost my passport, what do I do?",English,Walk-in,no,yes,46,SYNTHETIC
+E0343,2026-02-13,Friday,15,no,Official letters,Is this letter a fine?,German,Phone,yes,no,17,SYNTHETIC
+E0344,2026-06-19,Friday,8,no,Legal & police,Someone scammed me online,German,Email,yes,no,15,SYNTHETIC
+E0345,2026-07-15,Wednesday,16,no,Health & insurance,How do I find a doctor who speaks English?,German,Phone,no,yes,41,SYNTHETIC
+E0346,2026-05-06,Wednesday,16,no,School & childcare,How does the school system work?,English,Phone,no,no,18,SYNTHETIC
+E0347,2026-04-13,Monday,16,no,Address registration,How do I register my new address?,Japanese,Walk-in,yes,no,21,SYNTHETIC
+E0348,2026-10-06,Tuesday,18,yes,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,yes,no,15,SYNTHETIC
+E0349,2026-04-23,Thursday,7,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Walk-in,yes,no,17,SYNTHETIC
+E0350,2026-02-21,Saturday,10,yes,Residence permit,Can I travel while my renewal is pending?,Spanish,Walk-in,no,yes,29,SYNTHETIC
+E0351,2026-04-23,Thursday,15,no,Documents & passport,"I lost my passport, what do I do?",English,Email,yes,no,29,SYNTHETIC
+E0352,2026-07-03,Friday,20,yes,Housing,How do I find a flat?,German,Email,no,yes,28,SYNTHETIC
+E0353,2026-04-07,Tuesday,19,yes,Address registration,How do I register my new address?,English,Phone,no,no,12,SYNTHETIC
+E0354,2026-09-27,Sunday,13,yes,Address registration,How do I register my new address?,German,Phone,yes,no,14,SYNTHETIC
+E0355,2026-06-15,Monday,8,no,Housing,"My landlord wants to raise the rent, is that allowed?",Spanish,Walk-in,no,yes,38,SYNTHETIC
+E0356,2026-07-11,Saturday,17,yes,Residence permit,My permit expires soon and I have no appointment,German,Phone,yes,no,12,SYNTHETIC
+E0357,2026-08-12,Wednesday,18,yes,Address registration,I can't find an appointment for registration,French,Email,yes,no,21,SYNTHETIC
+E0358,2026-10-29,Thursday,18,yes,Official letters,"I got a letter from my health insurance, is it urgent?",English,Email,yes,no,27,SYNTHETIC
+E0359,2026-10-21,Wednesday,12,no,Residence permit,Can I travel while my renewal is pending?,English,Email,no,no,22,SYNTHETIC
+E0360,2026-03-14,Saturday,11,yes,Legal & police,"I need a lawyer, where do I start?",Japanese,Phone,no,yes,43,SYNTHETIC
+E0361,2026-02-15,Sunday,18,yes,Tax & money,Do I need to file a tax return?,English,Phone,yes,no,15,SYNTHETIC
+E0362,2026-02-25,Wednesday,17,no,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Walk-in,no,yes,41,SYNTHETIC
+E0363,2026-09-10,Thursday,19,yes,Tax & money,How do I open a bank account?,Turkish,Email,yes,no,19,SYNTHETIC
+E0364,2026-02-07,Saturday,18,yes,Address registration,How do I register my new address?,German,Walk-in,no,yes,24,SYNTHETIC
+E0365,2026-03-29,Sunday,20,yes,Documents & passport,"I lost my passport, what do I do?",German,Walk-in,no,yes,61,SYNTHETIC
+E0366,2026-01-16,Friday,13,no,Legal & police,"I need a lawyer, where do I start?",English,Phone,yes,no,20,SYNTHETIC
+E0367,2026-04-08,Wednesday,12,no,Address registration,"I moved flats, do I need to register again?",English,Phone,no,no,8,SYNTHETIC
+E0368,2026-09-09,Wednesday,9,no,Health & insurance,How do I find a doctor who speaks English?,Spanish,Email,yes,no,13,SYNTHETIC
+E0369,2026-02-19,Thursday,7,yes,Work & job loss,"I lost my job, what are my next steps?",German,Phone,no,yes,39,SYNTHETIC
+E0370,2026-05-16,Saturday,8,yes,Work & job loss,Do I need to register with the job agency?,German,Email,yes,no,17,SYNTHETIC
+E0371,2026-08-27,Thursday,10,no,Official letters,What does this letter from the tax office mean?,English,Phone,yes,no,19,SYNTHETIC
+E0372,2026-10-29,Thursday,10,no,Health & insurance,How do I find a doctor who speaks English?,Spanish,Email,no,yes,53,SYNTHETIC
+E0373,2026-09-01,Tuesday,15,no,Health & insurance,Which health insurance should I choose?,Arabic,Walk-in,yes,no,7,SYNTHETIC
+E0374,2026-03-17,Tuesday,8,no,Housing,"My landlord wants to raise the rent, is that allowed?",Japanese,Walk-in,yes,no,21,SYNTHETIC
+E0375,2026-08-05,Wednesday,8,no,Address registration,I can't find an appointment for registration,English,Walk-in,yes,no,16,SYNTHETIC
+E0376,2026-02-04,Wednesday,8,no,Legal & police,Someone scammed me online,German,Phone,no,yes,35,SYNTHETIC
+E0377,2026-01-07,Wednesday,18,yes,Work & job loss,"I lost my job, what are my next steps?",Arabic,Email,yes,no,10,SYNTHETIC
+E0378,2026-02-21,Saturday,20,yes,Residence permit,My permit expires soon and I have no appointment,Spanish,Walk-in,yes,no,18,SYNTHETIC
+E0379,2026-05-16,Saturday,12,yes,Tax & money,Do I need to file a tax return?,Turkish,Email,yes,no,19,SYNTHETIC
+E0380,2026-07-22,Wednesday,20,yes,Work & job loss,"I lost my job, what are my next steps?",English,Email,no,yes,42,SYNTHETIC
+E0381,2026-07-10,Friday,6,yes,Official letters,Is this letter a fine?,Hindi,Walk-in,yes,no,14,SYNTHETIC
+E0382,2026-06-03,Wednesday,22,yes,Address registration,"I moved flats, do I need to register again?",Hindi,Email,yes,no,21,SYNTHETIC
+E0383,2026-08-15,Saturday,10,yes,Documents & passport,"I lost my passport, what do I do?",Arabic,Phone,yes,no,16,SYNTHETIC
+E0384,2026-09-17,Thursday,12,no,Official letters,Is this letter a fine?,English,Phone,yes,no,5,SYNTHETIC
+E0385,2026-01-30,Friday,10,no,Tax & money,How do I get a tax ID?,Arabic,Email,no,no,14,SYNTHETIC
+E0386,2026-01-16,Friday,10,no,Address registration,"I moved flats, do I need to register again?",Arabic,Phone,yes,no,11,SYNTHETIC
+E0387,2026-05-13,Wednesday,17,no,Address registration,I can't find an appointment for registration,Polish,Phone,yes,no,13,SYNTHETIC
+E0388,2026-04-26,Sunday,16,yes,Address registration,How do I register my new address?,Spanish,Walk-in,yes,no,17,SYNTHETIC
+E0389,2026-08-31,Monday,20,yes,Car & transport,"I got a parking fine, what now?",Hindi,Email,yes,no,19,SYNTHETIC
+E0390,2026-07-12,Sunday,19,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Turkish,Walk-in,yes,no,15,SYNTHETIC
+E0391,2026-02-22,Sunday,3,yes,Work & job loss,My employer has not paid my salary,Turkish,Phone,no,no,18,SYNTHETIC
+E0392,2026-02-02,Monday,11,no,Documents & passport,How do I renew my ID card?,Spanish,Phone,no,yes,29,SYNTHETIC
+E0393,2026-06-02,Tuesday,9,no,Car & transport,How do I register my car?,German,Phone,yes,no,24,SYNTHETIC
+E0394,2026-01-14,Wednesday,16,no,Address registration,"I moved flats, do I need to register again?",German,Email,yes,no,18,SYNTHETIC
+E0395,2026-10-20,Tuesday,18,yes,Health & insurance,How do I find a doctor who speaks English?,French,Email,yes,no,12,SYNTHETIC
+E0396,2026-03-29,Sunday,19,yes,Health & insurance,Which health insurance should I choose?,German,Email,yes,no,8,SYNTHETIC
+E0397,2026-10-14,Wednesday,17,no,Car & transport,"I got a parking fine, what now?",English,Walk-in,yes,no,14,SYNTHETIC
+E0398,2026-06-19,Friday,12,no,Work & job loss,"I lost my job, what are my next steps?",German,Walk-in,yes,no,17,SYNTHETIC
+E0399,2026-02-06,Friday,13,no,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,no,yes,51,SYNTHETIC
+E0400,2026-03-12,Thursday,23,yes,Tax & money,How do I open a bank account?,French,Walk-in,no,yes,50,SYNTHETIC
+E0401,2026-04-03,Friday,18,yes,Address registration,How do I register my new address?,German,Phone,yes,no,18,SYNTHETIC
+E0402,2026-10-23,Friday,17,no,Housing,"My landlord wants to raise the rent, is that allowed?",English,Email,yes,no,21,SYNTHETIC
+E0403,2026-08-08,Saturday,21,yes,Work & job loss,Do I need to register with the job agency?,Chinese,Walk-in,no,yes,46,SYNTHETIC
+E0404,2026-09-29,Tuesday,9,no,Housing,"My landlord wants to raise the rent, is that allowed?",English,Walk-in,yes,no,16,SYNTHETIC
+E0405,2026-02-22,Sunday,12,yes,Official letters,"I got a letter from my health insurance, is it urgent?",German,Email,yes,no,17,SYNTHETIC
+E0406,2026-08-11,Tuesday,20,yes,Health & insurance,How do I find a doctor who speaks English?,German,Phone,yes,no,11,SYNTHETIC
+E0407,2026-07-26,Sunday,6,yes,Residence permit,How do I renew my residence permit?,Arabic,Phone,no,yes,47,SYNTHETIC
+E0408,2026-01-20,Tuesday,12,no,Official letters,Is this letter a fine?,English,Walk-in,yes,no,15,SYNTHETIC
+E0409,2026-01-11,Sunday,7,yes,Car & transport,"I got a parking fine, what now?",German,Phone,no,yes,35,SYNTHETIC
+E0410,2026-01-05,Monday,11,no,Car & transport,"I got a parking fine, what now?",Turkish,Email,yes,no,16,SYNTHETIC
+E0411,2026-02-23,Monday,14,no,Work & job loss,My employer has not paid my salary,English,Phone,yes,no,16,SYNTHETIC
+E0412,2026-04-14,Tuesday,12,no,Health & insurance,Where is the nearest pharmacy open now?,German,Phone,yes,no,9,SYNTHETIC
+E0413,2026-06-19,Friday,10,no,Legal & police,Someone scammed me online,Turkish,Phone,no,yes,44,SYNTHETIC
+E0414,2026-09-19,Saturday,8,yes,Documents & passport,Where do I get a certificate of good conduct?,English,Walk-in,no,no,16,SYNTHETIC
+E0415,2026-08-26,Wednesday,7,yes,Official letters,Is this letter a fine?,German,Email,no,no,18,SYNTHETIC
+E0416,2026-01-24,Saturday,5,yes,Documents & passport,Where do I get a certificate of good conduct?,English,Phone,no,yes,32,SYNTHETIC
+E0417,2026-05-18,Monday,19,yes,Work & job loss,Do I need to register with the job agency?,German,Email,no,yes,43,SYNTHETIC
+E0418,2026-09-02,Wednesday,18,yes,Tax & money,Do I need to file a tax return?,English,Email,yes,no,12,SYNTHETIC
+E0419,2026-03-23,Monday,8,no,Residence permit,Can I travel while my renewal is pending?,German,Phone,yes,no,10,SYNTHETIC
+E0420,2026-03-08,Sunday,13,yes,Documents & passport,How do I renew my ID card?,English,Phone,no,no,13,SYNTHETIC
+E0421,2026-09-26,Saturday,17,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Arabic,Email,yes,no,22,SYNTHETIC
+E0422,2026-08-10,Monday,16,no,School & childcare,I got a letter from my child's school,Turkish,Phone,yes,no,14,SYNTHETIC
+E0423,2026-01-28,Wednesday,5,yes,Tax & money,Do I need to file a tax return?,English,Email,yes,no,9,SYNTHETIC
+E0424,2026-05-23,Saturday,7,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Spanish,Phone,yes,no,16,SYNTHETIC
+E0425,2026-10-21,Wednesday,13,no,Work & job loss,My employer has not paid my salary,English,Email,yes,no,19,SYNTHETIC
+E0426,2026-10-09,Friday,0,yes,Documents & passport,Where do I get a certificate of good conduct?,Japanese,Email,no,yes,48,SYNTHETIC
+E0427,2026-10-15,Thursday,9,no,Legal & police,"My bike was stolen, where do I report it?",Spanish,Phone,no,no,14,SYNTHETIC
+E0428,2026-08-31,Monday,17,no,Housing,"My landlord wants to raise the rent, is that allowed?",Polish,Phone,yes,no,16,SYNTHETIC
+E0429,2026-05-30,Saturday,14,yes,Official letters,Is this letter a fine?,Hindi,Email,yes,no,20,SYNTHETIC
+E0430,2026-04-11,Saturday,9,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Spanish,Phone,yes,no,11,SYNTHETIC
+E0431,2026-08-01,Saturday,7,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Turkish,Walk-in,yes,no,23,SYNTHETIC
+E0432,2026-09-13,Sunday,1,yes,Address registration,"I moved flats, do I need to register again?",Spanish,Email,yes,no,22,SYNTHETIC
+E0433,2026-04-01,Wednesday,16,no,Health & insurance,Where is the nearest pharmacy open now?,Turkish,Walk-in,no,yes,42,SYNTHETIC
+E0434,2026-07-16,Thursday,12,no,Health & insurance,Which health insurance should I choose?,English,Walk-in,yes,no,13,SYNTHETIC
+E0435,2026-08-20,Thursday,18,yes,Residence permit,Can I travel while my renewal is pending?,English,Email,no,yes,23,SYNTHETIC
+E0436,2026-10-11,Sunday,15,yes,Tax & money,How do I open a bank account?,Hindi,Email,no,yes,27,SYNTHETIC
+E0437,2026-03-09,Monday,22,yes,Legal & police,"I need a lawyer, where do I start?",Hindi,Walk-in,no,no,7,SYNTHETIC
+E0438,2026-10-26,Monday,15,no,Health & insurance,Where is the nearest pharmacy open now?,French,Email,yes,no,15,SYNTHETIC
+E0439,2026-08-05,Wednesday,18,yes,Tax & money,Do I need to file a tax return?,English,Walk-in,yes,no,20,SYNTHETIC
+E0440,2026-05-09,Saturday,9,yes,Residence permit,My permit expires soon and I have no appointment,English,Email,no,yes,52,SYNTHETIC
+E0441,2026-08-20,Thursday,8,no,Official letters,Is this letter a fine?,German,Email,yes,no,20,SYNTHETIC
+E0442,2026-05-28,Thursday,16,no,Housing,What is a Nebenkostenabrechnung?,German,Walk-in,no,yes,28,SYNTHETIC
+E0443,2026-06-10,Wednesday,22,yes,Residence permit,My permit expires soon and I have no appointment,Spanish,Walk-in,no,yes,40,SYNTHETIC
+E0444,2026-07-08,Wednesday,17,no,Car & transport,How do I register my car?,Japanese,Phone,yes,no,12,SYNTHETIC
+E0445,2026-02-08,Sunday,9,yes,Address registration,I can't find an appointment for registration,English,Phone,yes,no,11,SYNTHETIC
+E0446,2026-01-03,Saturday,11,yes,Tax & money,Do I need to file a tax return?,Chinese,Email,yes,no,19,SYNTHETIC
+E0447,2026-06-04,Thursday,13,no,Housing,"My landlord wants to raise the rent, is that allowed?",Chinese,Email,yes,no,16,SYNTHETIC
+E0448,2026-03-23,Monday,12,no,Housing,"My landlord wants to raise the rent, is that allowed?",French,Email,yes,no,11,SYNTHETIC
+E0449,2026-05-31,Sunday,10,yes,Official letters,Is this letter a fine?,English,Email,yes,no,24,SYNTHETIC
+E0450,2026-05-05,Tuesday,21,yes,Work & job loss,"I lost my job, what are my next steps?",German,Email,yes,no,15,SYNTHETIC
+E0451,2026-09-22,Tuesday,18,yes,Official letters,Is this letter a fine?,English,Email,yes,no,14,SYNTHETIC
+E0452,2026-03-27,Friday,22,yes,Residence permit,Can I travel while my renewal is pending?,English,Email,yes,no,16,SYNTHETIC
+E0453,2026-08-06,Thursday,19,yes,Housing,How do I find a flat?,Polish,Email,no,yes,50,SYNTHETIC
+E0454,2026-03-20,Friday,6,yes,Legal & police,"My bike was stolen, where do I report it?",English,Walk-in,yes,no,6,SYNTHETIC
+E0455,2026-10-22,Thursday,18,yes,Health & insurance,How do I find a doctor who speaks English?,English,Email,yes,no,10,SYNTHETIC
+E0456,2026-02-02,Monday,17,no,Health & insurance,Which health insurance should I choose?,German,Email,yes,no,17,SYNTHETIC
+E0457,2026-06-04,Thursday,15,no,Official letters,What does this letter from the tax office mean?,German,Email,no,no,8,SYNTHETIC
+E0458,2026-07-20,Monday,18,yes,Address registration,I can't find an appointment for registration,English,Email,yes,no,21,SYNTHETIC
+E0459,2026-07-11,Saturday,21,yes,Legal & police,"My bike was stolen, where do I report it?",English,Email,no,yes,44,SYNTHETIC
+E0460,2026-02-13,Friday,11,no,Health & insurance,How do I find a doctor who speaks English?,English,Walk-in,no,no,13,SYNTHETIC
+E0461,2026-03-14,Saturday,9,yes,Tax & money,Do I need to file a tax return?,Turkish,Email,no,yes,43,SYNTHETIC
+E0462,2026-10-09,Friday,13,no,Documents & passport,"I lost my passport, what do I do?",English,Phone,yes,no,12,SYNTHETIC
+E0463,2026-06-19,Friday,12,no,Health & insurance,Which health insurance should I choose?,German,Email,yes,no,15,SYNTHETIC
+E0464,2026-06-06,Saturday,16,yes,School & childcare,How does the school system work?,Chinese,Phone,yes,no,17,SYNTHETIC
+E0465,2026-04-24,Friday,17,no,Official letters,"I got a letter from my health insurance, is it urgent?",French,Email,yes,no,10,SYNTHETIC
+E0466,2026-06-06,Saturday,13,yes,Official letters,Is this letter a fine?,Turkish,Walk-in,no,yes,52,SYNTHETIC
+E0467,2026-03-13,Friday,20,yes,Tax & money,How do I open a bank account?,English,Phone,no,yes,39,SYNTHETIC
+E0468,2026-01-16,Friday,18,yes,Health & insurance,Which health insurance should I choose?,French,Email,yes,no,8,SYNTHETIC
+E0469,2026-10-04,Sunday,13,yes,Health & insurance,Where is the nearest pharmacy open now?,Spanish,Phone,yes,no,16,SYNTHETIC
+E0470,2026-02-16,Monday,12,no,Health & insurance,Where is the nearest pharmacy open now?,Hindi,Walk-in,yes,no,23,SYNTHETIC
+E0471,2026-03-23,Monday,9,no,Address registration,"I moved flats, do I need to register again?",Chinese,Phone,yes,no,23,SYNTHETIC
+E0472,2026-04-29,Wednesday,8,no,Housing,"My landlord wants to raise the rent, is that allowed?",Arabic,Walk-in,yes,no,13,SYNTHETIC
+E0473,2026-08-21,Friday,19,yes,Official letters,Is this letter a fine?,Turkish,Phone,no,yes,37,SYNTHETIC
+E0474,2026-10-24,Saturday,14,yes,Housing,How do I find a flat?,German,Email,no,yes,36,SYNTHETIC
+E0475,2026-02-09,Monday,14,no,Legal & police,"I need a lawyer, where do I start?",Spanish,Phone,no,yes,50,SYNTHETIC
+E0476,2026-01-04,Sunday,14,yes,Housing,"My landlord wants to raise the rent, is that allowed?",English,Email,no,yes,33,SYNTHETIC
+E0477,2026-03-18,Wednesday,9,no,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Email,yes,no,18,SYNTHETIC
+E0478,2026-04-18,Saturday,15,yes,Work & job loss,"I lost my job, what are my next steps?",English,Email,yes,no,17,SYNTHETIC
+E0479,2026-09-20,Sunday,7,yes,Address registration,"I moved flats, do I need to register again?",Turkish,Email,yes,no,15,SYNTHETIC
+E0480,2026-05-26,Tuesday,21,yes,Documents & passport,Where do I get a certificate of good conduct?,Japanese,Walk-in,no,yes,46,SYNTHETIC
+E0481,2026-07-30,Thursday,15,no,Address registration,"I moved flats, do I need to register again?",English,Email,yes,no,18,SYNTHETIC
+E0482,2026-10-30,Friday,8,no,Legal & police,"My bike was stolen, where do I report it?",English,Phone,no,yes,53,SYNTHETIC
+E0483,2026-09-16,Wednesday,16,no,Tax & money,How do I open a bank account?,English,Walk-in,yes,no,20,SYNTHETIC
+E0484,2026-03-02,Monday,8,no,Health & insurance,Where is the nearest pharmacy open now?,Spanish,Walk-in,no,no,25,SYNTHETIC
+E0485,2026-08-09,Sunday,14,yes,Housing,What is a Nebenkostenabrechnung?,Polish,Phone,yes,no,11,SYNTHETIC
+E0486,2026-10-22,Thursday,8,no,Health & insurance,How do I find a doctor who speaks English?,Polish,Walk-in,no,yes,39,SYNTHETIC
+E0487,2026-10-06,Tuesday,12,no,Documents & passport,Where do I get a certificate of good conduct?,Arabic,Email,no,yes,36,SYNTHETIC
+E0488,2026-04-16,Thursday,16,no,Official letters,What does this letter from the tax office mean?,German,Email,yes,no,6,SYNTHETIC
+E0489,2026-10-02,Friday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",Arabic,Email,yes,no,11,SYNTHETIC
+E0490,2026-10-14,Wednesday,14,no,Address registration,"I moved flats, do I need to register again?",Polish,Phone,yes,no,7,SYNTHETIC
+E0491,2026-03-02,Monday,17,no,Address registration,"I moved flats, do I need to register again?",Polish,Walk-in,yes,no,17,SYNTHETIC
+E0492,2026-01-27,Tuesday,9,no,School & childcare,How do I find a Kita place?,Spanish,Email,yes,no,18,SYNTHETIC
+E0493,2026-02-15,Sunday,8,yes,School & childcare,How does the school system work?,Turkish,Email,yes,no,20,SYNTHETIC
+E0494,2026-01-30,Friday,21,yes,Car & transport,"I got a parking fine, what now?",English,Walk-in,yes,no,16,SYNTHETIC
+E0495,2026-09-23,Wednesday,10,no,Legal & police,"My bike was stolen, where do I report it?",Turkish,Email,no,yes,30,SYNTHETIC
+E0496,2026-01-01,Thursday,22,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Phone,no,yes,33,SYNTHETIC
+E0497,2026-10-28,Wednesday,9,no,Work & job loss,My employer has not paid my salary,English,Walk-in,no,yes,34,SYNTHETIC
+E0498,2026-06-28,Sunday,11,yes,Legal & police,"My bike was stolen, where do I report it?",German,Email,yes,no,5,SYNTHETIC
+E0499,2026-03-31,Tuesday,12,no,Documents & passport,"I lost my passport, what do I do?",Polish,Walk-in,no,yes,47,SYNTHETIC
+E0500,2026-10-22,Thursday,10,no,Tax & money,How do I get a tax ID?,Polish,Walk-in,yes,no,17,SYNTHETIC
+E0501,2026-08-23,Sunday,16,yes,Residence permit,My permit expires soon and I have no appointment,Turkish,Walk-in,no,no,11,SYNTHETIC
+E0502,2026-04-28,Tuesday,18,yes,Car & transport,How do I register my car?,English,Walk-in,yes,no,15,SYNTHETIC
+E0503,2026-02-17,Tuesday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Walk-in,yes,no,12,SYNTHETIC
+E0504,2026-04-08,Wednesday,14,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Phone,yes,no,14,SYNTHETIC
+E0505,2026-07-02,Thursday,9,no,Official letters,Is this letter a fine?,German,Phone,no,yes,53,SYNTHETIC
+E0506,2026-01-22,Thursday,19,yes,Tax & money,How do I open a bank account?,Spanish,Email,yes,no,11,SYNTHETIC
+E0507,2026-09-19,Saturday,10,yes,Residence permit,My permit expires soon and I have no appointment,German,Email,no,yes,37,SYNTHETIC
+E0508,2026-07-21,Tuesday,19,yes,Health & insurance,Which health insurance should I choose?,Hindi,Email,yes,no,14,SYNTHETIC
+E0509,2026-01-07,Wednesday,16,no,Car & transport,How do I convert my driving licence?,Arabic,Phone,yes,no,9,SYNTHETIC
+E0510,2026-06-25,Thursday,12,no,Work & job loss,My employer has not paid my salary,Polish,Phone,yes,no,23,SYNTHETIC
+E0511,2026-08-19,Wednesday,9,no,Work & job loss,"I lost my job, what are my next steps?",Hindi,Walk-in,no,yes,34,SYNTHETIC
+E0512,2026-07-15,Wednesday,9,no,Health & insurance,How do I find a doctor who speaks English?,Polish,Phone,yes,no,13,SYNTHETIC
+E0513,2026-09-22,Tuesday,14,no,Health & insurance,Which health insurance should I choose?,German,Email,yes,no,15,SYNTHETIC
+E0514,2026-05-11,Monday,13,no,Documents & passport,How do I renew my ID card?,English,Phone,yes,no,25,SYNTHETIC
+E0515,2026-05-12,Tuesday,11,no,Health & insurance,Where is the nearest pharmacy open now?,Arabic,Email,yes,no,12,SYNTHETIC
+E0516,2026-05-26,Tuesday,11,no,Address registration,I can't find an appointment for registration,German,Phone,yes,no,9,SYNTHETIC
+E0517,2026-08-26,Wednesday,15,no,School & childcare,How does the school system work?,German,Email,no,yes,49,SYNTHETIC
+E0518,2026-02-06,Friday,8,no,Work & job loss,Do I need to register with the job agency?,German,Phone,no,yes,56,SYNTHETIC
+E0519,2026-07-22,Wednesday,10,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,no,no,11,SYNTHETIC
+E0520,2026-05-01,Friday,16,no,Documents & passport,"I lost my passport, what do I do?",English,Phone,yes,no,20,SYNTHETIC
+E0521,2026-08-31,Monday,14,no,Documents & passport,"I lost my passport, what do I do?",English,Email,no,yes,26,SYNTHETIC
+E0522,2026-07-19,Sunday,11,yes,Documents & passport,How do I renew my ID card?,German,Phone,no,yes,50,SYNTHETIC
+E0523,2026-03-29,Sunday,7,yes,Health & insurance,Where is the nearest pharmacy open now?,Chinese,Email,no,no,12,SYNTHETIC
+E0524,2026-10-04,Sunday,9,yes,Address registration,I can't find an appointment for registration,French,Email,yes,no,20,SYNTHETIC
+E0525,2026-10-01,Thursday,11,no,School & childcare,How does the school system work?,German,Phone,yes,no,17,SYNTHETIC
+E0526,2026-09-25,Friday,18,yes,Documents & passport,How do I renew my ID card?,Arabic,Email,yes,no,10,SYNTHETIC
+E0527,2026-09-02,Wednesday,11,no,Health & insurance,Where is the nearest pharmacy open now?,German,Email,yes,no,8,SYNTHETIC
+E0528,2026-07-22,Wednesday,10,no,Health & insurance,How do I find a doctor who speaks English?,English,Phone,yes,no,10,SYNTHETIC
+E0529,2026-09-22,Tuesday,17,no,School & childcare,I got a letter from my child's school,Arabic,Phone,yes,no,13,SYNTHETIC
+E0530,2026-02-05,Thursday,9,no,Address registration,I can't find an appointment for registration,German,Email,yes,no,11,SYNTHETIC
+E0531,2026-06-14,Sunday,6,yes,Health & insurance,Which health insurance should I choose?,English,Phone,no,yes,34,SYNTHETIC
+E0532,2026-01-05,Monday,10,no,Work & job loss,Do I need to register with the job agency?,English,Email,no,yes,39,SYNTHETIC
+E0533,2026-09-13,Sunday,23,yes,Housing,"My landlord wants to raise the rent, is that allowed?",English,Walk-in,yes,no,10,SYNTHETIC
+E0534,2026-08-29,Saturday,9,yes,Documents & passport,How do I renew my ID card?,Spanish,Phone,yes,no,23,SYNTHETIC
+E0535,2026-05-08,Friday,12,no,Housing,How do I find a flat?,Polish,Email,yes,no,18,SYNTHETIC
+E0536,2026-08-31,Monday,12,no,Residence permit,How do I renew my residence permit?,Turkish,Phone,no,no,15,SYNTHETIC
+E0537,2026-09-24,Thursday,8,no,Legal & police,"My bike was stolen, where do I report it?",Spanish,Phone,no,yes,37,SYNTHETIC
+E0538,2026-08-11,Tuesday,11,no,Address registration,How do I register my new address?,German,Phone,yes,no,20,SYNTHETIC
+E0539,2026-10-25,Sunday,18,yes,Residence permit,How do I renew my residence permit?,English,Email,no,yes,32,SYNTHETIC
+E0540,2026-06-23,Tuesday,20,yes,Car & transport,How do I convert my driving licence?,German,Phone,yes,no,12,SYNTHETIC
+E0541,2026-02-24,Tuesday,8,no,Health & insurance,How do I find a doctor who speaks English?,Hindi,Phone,no,no,17,SYNTHETIC
+E0542,2026-03-10,Tuesday,10,no,Official letters,Is this letter a fine?,German,Phone,no,yes,24,SYNTHETIC
+E0543,2026-04-08,Wednesday,15,no,Car & transport,How do I register my car?,French,Email,yes,no,5,SYNTHETIC
+E0544,2026-03-21,Saturday,13,yes,Documents & passport,How do I renew my ID card?,English,Email,yes,no,17,SYNTHETIC
+E0545,2026-04-05,Sunday,19,yes,Official letters,What does this letter from the tax office mean?,Turkish,Email,yes,no,12,SYNTHETIC
+E0546,2026-09-26,Saturday,16,yes,Official letters,"I got a letter from my health insurance, is it urgent?",German,Email,yes,no,12,SYNTHETIC
+E0547,2026-09-25,Friday,16,no,Address registration,How do I register my new address?,English,Email,no,yes,46,SYNTHETIC
+E0548,2026-10-20,Tuesday,16,no,Documents & passport,Where do I get a certificate of good conduct?,Hindi,Phone,yes,no,14,SYNTHETIC
+E0549,2026-02-06,Friday,6,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Phone,yes,no,24,SYNTHETIC
+E0550,2026-08-01,Saturday,18,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,yes,no,11,SYNTHETIC
+E0551,2026-06-05,Friday,8,no,Documents & passport,"I lost my passport, what do I do?",Arabic,Phone,no,yes,35,SYNTHETIC
+E0552,2026-05-08,Friday,15,no,Health & insurance,Where is the nearest pharmacy open now?,German,Phone,yes,no,15,SYNTHETIC
+E0553,2026-07-03,Friday,16,no,School & childcare,I got a letter from my child's school,German,Phone,yes,no,22,SYNTHETIC
+E0554,2026-08-15,Saturday,21,yes,Address registration,"I moved flats, do I need to register again?",Spanish,Email,yes,no,20,SYNTHETIC
+E0555,2026-06-15,Monday,15,no,School & childcare,How does the school system work?,German,Email,yes,no,16,SYNTHETIC
+E0556,2026-01-01,Thursday,17,no,Residence permit,Can I travel while my renewal is pending?,English,Walk-in,yes,no,5,SYNTHETIC
+E0557,2026-04-24,Friday,10,no,Documents & passport,Where do I get a certificate of good conduct?,Arabic,Email,yes,no,24,SYNTHETIC
+E0558,2026-02-18,Wednesday,7,yes,Health & insurance,How do I find a doctor who speaks English?,French,Phone,yes,no,12,SYNTHETIC
+E0559,2026-06-03,Wednesday,8,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Walk-in,no,no,14,SYNTHETIC
+E0560,2026-10-23,Friday,18,yes,Car & transport,How do I register my car?,German,Email,no,yes,24,SYNTHETIC
+E0561,2026-02-10,Tuesday,18,yes,Health & insurance,Which health insurance should I choose?,Spanish,Phone,yes,no,19,SYNTHETIC
+E0562,2026-01-06,Tuesday,16,no,School & childcare,I got a letter from my child's school,English,Email,yes,no,11,SYNTHETIC
+E0563,2026-09-15,Tuesday,16,no,Address registration,I can't find an appointment for registration,Arabic,Phone,yes,no,28,SYNTHETIC
+E0564,2026-07-21,Tuesday,9,no,Work & job loss,Do I need to register with the job agency?,Arabic,Phone,no,yes,40,SYNTHETIC
+E0565,2026-02-13,Friday,12,no,Work & job loss,"I lost my job, what are my next steps?",German,Email,yes,no,15,SYNTHETIC
+E0566,2026-09-26,Saturday,10,yes,Address registration,"I moved flats, do I need to register again?",German,Walk-in,no,yes,29,SYNTHETIC
+E0567,2026-07-31,Friday,12,no,Documents & passport,How do I renew my ID card?,English,Phone,yes,no,14,SYNTHETIC
+E0568,2026-08-15,Saturday,15,yes,Tax & money,Do I need to file a tax return?,English,Phone,no,no,14,SYNTHETIC
+E0569,2026-02-13,Friday,8,no,Housing,What is a Nebenkostenabrechnung?,English,Email,no,yes,62,SYNTHETIC
+E0570,2026-08-19,Wednesday,13,no,Address registration,How do I register my new address?,English,Email,yes,no,11,SYNTHETIC
+E0571,2026-09-05,Saturday,15,yes,Official letters,Is this letter a fine?,Arabic,Phone,yes,no,13,SYNTHETIC
+E0572,2026-04-13,Monday,18,yes,Documents & passport,Where do I get a certificate of good conduct?,Chinese,Phone,yes,no,11,SYNTHETIC
+E0573,2026-07-04,Saturday,19,yes,Car & transport,How do I convert my driving licence?,Japanese,Email,no,yes,50,SYNTHETIC
+E0574,2026-06-11,Thursday,13,no,Car & transport,How do I convert my driving licence?,Arabic,Email,yes,no,10,SYNTHETIC
+E0575,2026-01-12,Monday,7,yes,Legal & police,"My bike was stolen, where do I report it?",German,Phone,yes,no,7,SYNTHETIC
+E0576,2026-05-01,Friday,23,yes,School & childcare,How do I find a Kita place?,Turkish,Walk-in,yes,no,16,SYNTHETIC
+E0577,2026-01-16,Friday,21,yes,Legal & police,"My bike was stolen, where do I report it?",English,Phone,yes,no,12,SYNTHETIC
+E0578,2026-04-27,Monday,12,no,Residence permit,My permit expires soon and I have no appointment,French,Phone,yes,no,19,SYNTHETIC
+E0579,2026-04-16,Thursday,16,no,Health & insurance,Where is the nearest pharmacy open now?,Hindi,Email,yes,no,16,SYNTHETIC
+E0580,2026-03-16,Monday,16,no,Address registration,How do I register my new address?,Arabic,Walk-in,yes,no,18,SYNTHETIC
+E0581,2026-06-12,Friday,19,yes,Address registration,"I moved flats, do I need to register again?",German,Email,yes,no,9,SYNTHETIC
+E0582,2026-05-21,Thursday,9,no,Tax & money,Do I need to file a tax return?,English,Walk-in,no,yes,64,SYNTHETIC
+E0583,2026-05-17,Sunday,15,yes,School & childcare,How do I find a Kita place?,Hindi,Email,yes,no,15,SYNTHETIC
+E0584,2026-08-29,Saturday,17,yes,Health & insurance,How do I find a doctor who speaks English?,German,Phone,no,no,16,SYNTHETIC
+E0585,2026-07-29,Wednesday,17,no,Address registration,I can't find an appointment for registration,Turkish,Phone,no,yes,39,SYNTHETIC
+E0586,2026-04-01,Wednesday,20,yes,Address registration,"I moved flats, do I need to register again?",Hindi,Walk-in,no,no,20,SYNTHETIC
+E0587,2026-08-07,Friday,12,no,Tax & money,How do I get a tax ID?,German,Walk-in,no,yes,39,SYNTHETIC
+E0588,2026-10-02,Friday,14,no,Health & insurance,Where is the nearest pharmacy open now?,English,Email,yes,no,10,SYNTHETIC
+E0589,2026-05-06,Wednesday,14,no,Tax & money,How do I open a bank account?,Japanese,Phone,yes,no,9,SYNTHETIC
+E0590,2026-06-05,Friday,18,yes,Work & job loss,"I lost my job, what are my next steps?",German,Email,no,yes,36,SYNTHETIC
+E0591,2026-09-22,Tuesday,20,yes,Documents & passport,"I lost my passport, what do I do?",Polish,Walk-in,yes,no,20,SYNTHETIC
+E0592,2026-03-11,Wednesday,12,no,Car & transport,"I got a parking fine, what now?",Turkish,Email,yes,no,18,SYNTHETIC
+E0593,2026-08-21,Friday,8,no,Address registration,I can't find an appointment for registration,English,Phone,yes,no,14,SYNTHETIC
+E0594,2026-07-05,Sunday,8,yes,Work & job loss,My employer has not paid my salary,Turkish,Phone,yes,no,12,SYNTHETIC
+E0595,2026-01-23,Friday,17,no,Health & insurance,Which health insurance should I choose?,English,Email,yes,no,13,SYNTHETIC
+E0596,2026-06-08,Monday,17,no,Work & job loss,"I lost my job, what are my next steps?",English,Phone,yes,no,13,SYNTHETIC
+E0597,2026-05-10,Sunday,5,yes,Address registration,"I moved flats, do I need to register again?",English,Email,yes,no,17,SYNTHETIC
+E0598,2026-07-29,Wednesday,13,no,Work & job loss,My employer has not paid my salary,English,Email,yes,no,9,SYNTHETIC
+E0599,2026-04-17,Friday,7,yes,Tax & money,Do I need to file a tax return?,Turkish,Walk-in,no,yes,38,SYNTHETIC
+E0600,2026-02-14,Saturday,7,yes,Official letters,Is this letter a fine?,English,Email,yes,no,14,SYNTHETIC
+E0601,2026-10-21,Wednesday,18,yes,Car & transport,How do I convert my driving licence?,Polish,Phone,yes,no,5,SYNTHETIC
+E0602,2026-02-04,Wednesday,17,no,Legal & police,"I need a lawyer, where do I start?",English,Email,yes,no,9,SYNTHETIC
+E0603,2026-09-27,Sunday,12,yes,Official letters,Is this letter a fine?,Arabic,Phone,yes,no,21,SYNTHETIC
+E0604,2026-05-28,Thursday,13,no,Car & transport,How do I register my car?,Japanese,Phone,yes,no,17,SYNTHETIC
+E0605,2026-10-16,Friday,14,no,Address registration,How do I register my new address?,Hindi,Walk-in,yes,no,19,SYNTHETIC
+E0606,2026-01-13,Tuesday,13,no,Documents & passport,"I lost my passport, what do I do?",Polish,Walk-in,yes,no,5,SYNTHETIC
+E0607,2026-06-20,Saturday,11,yes,Work & job loss,Do I need to register with the job agency?,Polish,Phone,yes,no,10,SYNTHETIC
+E0608,2026-06-15,Monday,17,no,Health & insurance,How do I find a doctor who speaks English?,German,Email,no,yes,28,SYNTHETIC
+E0609,2026-01-15,Thursday,19,yes,School & childcare,How does the school system work?,Polish,Email,yes,no,20,SYNTHETIC
+E0610,2026-08-24,Monday,20,yes,Work & job loss,Do I need to register with the job agency?,Chinese,Phone,yes,no,12,SYNTHETIC
+E0611,2026-10-17,Saturday,17,yes,Health & insurance,How do I find a doctor who speaks English?,English,Phone,yes,no,17,SYNTHETIC
+E0612,2026-06-23,Tuesday,22,yes,Tax & money,How do I open a bank account?,Turkish,Phone,yes,no,22,SYNTHETIC
+E0613,2026-06-07,Sunday,17,yes,Address registration,How do I register my new address?,German,Walk-in,yes,no,10,SYNTHETIC
+E0614,2026-09-26,Saturday,11,yes,Official letters,What does this letter from the tax office mean?,Polish,Walk-in,no,yes,46,SYNTHETIC
+E0615,2026-01-13,Tuesday,18,yes,Work & job loss,My employer has not paid my salary,German,Phone,yes,no,12,SYNTHETIC
+E0616,2026-02-20,Friday,18,yes,Housing,"My landlord wants to raise the rent, is that allowed?",English,Phone,yes,no,20,SYNTHETIC
+E0617,2026-09-25,Friday,8,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,yes,no,21,SYNTHETIC
+E0618,2026-06-09,Tuesday,6,yes,Health & insurance,Which health insurance should I choose?,German,Phone,yes,no,7,SYNTHETIC
+E0619,2026-06-13,Saturday,18,yes,Official letters,Is this letter a fine?,Arabic,Phone,yes,no,16,SYNTHETIC
+E0620,2026-10-09,Friday,11,no,Health & insurance,Where is the nearest pharmacy open now?,Polish,Email,no,yes,44,SYNTHETIC
+E0621,2026-06-09,Tuesday,15,no,Address registration,I can't find an appointment for registration,English,Phone,yes,no,19,SYNTHETIC
+E0622,2026-07-20,Monday,9,no,Documents & passport,Where do I get a certificate of good conduct?,Hindi,Email,yes,no,19,SYNTHETIC
+E0623,2026-04-12,Sunday,17,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Arabic,Phone,yes,no,23,SYNTHETIC
+E0624,2026-08-28,Friday,8,no,Housing,What is a Nebenkostenabrechnung?,German,Walk-in,yes,no,14,SYNTHETIC
+E0625,2026-05-13,Wednesday,20,yes,Address registration,"I moved flats, do I need to register again?",German,Phone,yes,no,11,SYNTHETIC
+E0626,2026-06-29,Monday,13,no,Work & job loss,Do I need to register with the job agency?,Turkish,Phone,yes,no,7,SYNTHETIC
+E0627,2026-02-24,Tuesday,11,no,Documents & passport,How do I renew my ID card?,English,Phone,yes,no,10,SYNTHETIC
+E0628,2026-09-04,Friday,12,no,Address registration,I can't find an appointment for registration,German,Walk-in,yes,no,14,SYNTHETIC
+E0629,2026-06-25,Thursday,14,no,Health & insurance,Where is the nearest pharmacy open now?,Spanish,Phone,yes,no,25,SYNTHETIC
+E0630,2026-06-16,Tuesday,14,no,School & childcare,How does the school system work?,English,Phone,yes,no,20,SYNTHETIC
+E0631,2026-07-14,Tuesday,11,no,Tax & money,How do I open a bank account?,French,Email,yes,no,16,SYNTHETIC
+E0632,2026-03-17,Tuesday,16,no,Documents & passport,Where do I get a certificate of good conduct?,Arabic,Phone,yes,no,18,SYNTHETIC
+E0633,2026-06-12,Friday,11,no,Car & transport,How do I register my car?,Japanese,Phone,yes,no,25,SYNTHETIC
+E0634,2026-01-05,Monday,15,no,Documents & passport,How do I renew my ID card?,English,Walk-in,yes,no,9,SYNTHETIC
+E0635,2026-01-01,Thursday,17,no,Residence permit,How do I renew my residence permit?,German,Email,yes,no,21,SYNTHETIC
+E0636,2026-07-15,Wednesday,12,no,School & childcare,How do I find a Kita place?,German,Phone,yes,no,7,SYNTHETIC
+E0637,2026-07-04,Saturday,19,yes,Official letters,What does this letter from the tax office mean?,Turkish,Phone,no,no,14,SYNTHETIC
+E0638,2026-08-12,Wednesday,22,yes,Tax & money,Do I need to file a tax return?,Turkish,Email,no,yes,35,SYNTHETIC
+E0639,2026-08-06,Thursday,15,no,Work & job loss,"I lost my job, what are my next steps?",English,Email,yes,no,17,SYNTHETIC
+E0640,2026-05-02,Saturday,17,yes,Health & insurance,Where is the nearest pharmacy open now?,German,Walk-in,no,no,11,SYNTHETIC
+E0641,2026-07-08,Wednesday,8,no,Health & insurance,How do I find a doctor who speaks English?,German,Phone,yes,no,20,SYNTHETIC
+E0642,2026-02-15,Sunday,10,yes,Tax & money,How do I open a bank account?,English,Email,yes,no,21,SYNTHETIC
+E0643,2026-06-09,Tuesday,15,no,Housing,What is a Nebenkostenabrechnung?,Arabic,Phone,yes,no,20,SYNTHETIC
+E0644,2026-05-31,Sunday,11,yes,Official letters,Is this letter a fine?,Hindi,Email,no,yes,41,SYNTHETIC
+E0645,2026-02-01,Sunday,15,yes,Health & insurance,Where is the nearest pharmacy open now?,Turkish,Phone,yes,no,13,SYNTHETIC
+E0646,2026-09-16,Wednesday,8,no,Documents & passport,Where do I get a certificate of good conduct?,English,Walk-in,yes,no,12,SYNTHETIC
+E0647,2026-02-27,Friday,15,no,Documents & passport,"I lost my passport, what do I do?",English,Email,yes,no,12,SYNTHETIC
+E0648,2026-09-28,Monday,19,yes,Work & job loss,"I lost my job, what are my next steps?",Japanese,Email,no,yes,32,SYNTHETIC
+E0649,2026-09-11,Friday,17,no,Tax & money,Do I need to file a tax return?,English,Email,yes,no,11,SYNTHETIC
+E0650,2026-05-16,Saturday,17,yes,Official letters,What does this letter from the tax office mean?,German,Email,no,yes,26,SYNTHETIC
+E0651,2026-09-30,Wednesday,10,no,Work & job loss,Do I need to register with the job agency?,English,Walk-in,yes,no,15,SYNTHETIC
+E0652,2026-06-11,Thursday,21,yes,Work & job loss,My employer has not paid my salary,Turkish,Walk-in,yes,no,21,SYNTHETIC
+E0653,2026-05-20,Wednesday,11,no,Work & job loss,Do I need to register with the job agency?,German,Email,no,yes,52,SYNTHETIC
+E0654,2026-10-29,Thursday,18,yes,Official letters,What does this letter from the tax office mean?,German,Phone,yes,no,19,SYNTHETIC
+E0655,2026-02-04,Wednesday,5,yes,Documents & passport,"I lost my passport, what do I do?",Hindi,Phone,no,yes,49,SYNTHETIC
+E0656,2026-02-17,Tuesday,7,yes,Documents & passport,"I lost my passport, what do I do?",Chinese,Email,no,no,18,SYNTHETIC
+E0657,2026-03-03,Tuesday,8,no,Car & transport,How do I convert my driving licence?,French,Email,yes,no,16,SYNTHETIC
+E0658,2026-08-28,Friday,16,no,Official letters,"I got a letter from my health insurance, is it urgent?",Chinese,Phone,no,yes,26,SYNTHETIC
+E0659,2026-06-15,Monday,10,no,Work & job loss,"I lost my job, what are my next steps?",English,Walk-in,yes,no,20,SYNTHETIC
+E0660,2026-02-05,Thursday,13,no,Address registration,How do I register my new address?,Turkish,Phone,yes,no,17,SYNTHETIC
+E0661,2026-08-09,Sunday,10,yes,Health & insurance,Which health insurance should I choose?,English,Email,no,no,14,SYNTHETIC
+E0662,2026-01-10,Saturday,20,yes,Housing,How do I find a flat?,English,Phone,no,yes,35,SYNTHETIC
+E0663,2026-03-19,Thursday,16,no,Work & job loss,Do I need to register with the job agency?,German,Email,yes,no,5,SYNTHETIC
+E0664,2026-02-05,Thursday,14,no,Car & transport,How do I register my car?,Spanish,Email,no,yes,38,SYNTHETIC
+E0665,2026-07-03,Friday,11,no,Health & insurance,How do I find a doctor who speaks English?,Arabic,Walk-in,yes,no,22,SYNTHETIC
+E0666,2026-08-24,Monday,17,no,Documents & passport,"I lost my passport, what do I do?",English,Phone,no,yes,40,SYNTHETIC
+E0667,2026-04-08,Wednesday,11,no,Official letters,Is this letter a fine?,German,Phone,yes,no,13,SYNTHETIC
+E0668,2026-01-13,Tuesday,17,no,Documents & passport,"I lost my passport, what do I do?",Polish,Email,yes,no,10,SYNTHETIC
+E0669,2026-08-19,Wednesday,22,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,no,yes,35,SYNTHETIC
+E0670,2026-09-25,Friday,13,no,Housing,"My landlord wants to raise the rent, is that allowed?",Hindi,Phone,no,no,19,SYNTHETIC
+E0671,2026-03-14,Saturday,13,yes,Documents & passport,"I lost my passport, what do I do?",Hindi,Phone,no,yes,52,SYNTHETIC
+E0672,2026-01-26,Monday,20,yes,Address registration,I can't find an appointment for registration,English,Email,yes,no,11,SYNTHETIC
+E0673,2026-02-24,Tuesday,8,no,Tax & money,How do I get a tax ID?,Spanish,Walk-in,yes,no,18,SYNTHETIC
+E0674,2026-06-16,Tuesday,8,no,Car & transport,"I got a parking fine, what now?",Spanish,Walk-in,yes,no,16,SYNTHETIC
+E0675,2026-10-31,Saturday,9,yes,Housing,"My landlord wants to raise the rent, is that allowed?",Hindi,Email,no,yes,37,SYNTHETIC
+E0676,2026-10-25,Sunday,7,yes,Work & job loss,My employer has not paid my salary,Turkish,Walk-in,no,yes,57,SYNTHETIC
+E0677,2026-09-07,Monday,8,no,Documents & passport,Where do I get a certificate of good conduct?,French,Email,no,yes,54,SYNTHETIC
+E0678,2026-09-01,Tuesday,16,no,Housing,How do I find a flat?,English,Email,no,yes,33,SYNTHETIC
+E0679,2026-03-31,Tuesday,15,no,Official letters,What does this letter from the tax office mean?,Turkish,Walk-in,no,yes,45,SYNTHETIC
+E0680,2026-01-03,Saturday,14,yes,Official letters,What does this letter from the tax office mean?,Turkish,Walk-in,no,no,20,SYNTHETIC
+E0681,2026-09-17,Thursday,10,no,Residence permit,How do I renew my residence permit?,Hindi,Walk-in,yes,no,14,SYNTHETIC
+E0682,2026-04-01,Wednesday,9,no,Work & job loss,Do I need to register with the job agency?,English,Email,yes,no,18,SYNTHETIC
+E0683,2026-08-21,Friday,7,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Arabic,Phone,no,no,19,SYNTHETIC
+E0684,2026-08-16,Sunday,15,yes,Official letters,Is this letter a fine?,French,Phone,yes,no,23,SYNTHETIC
+E0685,2026-04-27,Monday,8,no,Address registration,"I moved flats, do I need to register again?",Arabic,Phone,no,no,12,SYNTHETIC
+E0686,2026-04-21,Tuesday,20,yes,Work & job loss,"I lost my job, what are my next steps?",German,Phone,yes,no,17,SYNTHETIC
+E0687,2026-05-19,Tuesday,9,no,Official letters,What does this letter from the tax office mean?,English,Email,no,yes,39,SYNTHETIC
+E0688,2026-06-25,Thursday,10,no,Work & job loss,"I lost my job, what are my next steps?",Polish,Email,no,yes,37,SYNTHETIC
+E0689,2026-03-29,Sunday,15,yes,School & childcare,How do I find a Kita place?,Turkish,Walk-in,yes,no,10,SYNTHETIC
+E0690,2026-08-08,Saturday,17,yes,Official letters,Is this letter a fine?,English,Walk-in,yes,no,18,SYNTHETIC
+E0691,2026-10-21,Wednesday,20,yes,Residence permit,Can I travel while my renewal is pending?,Polish,Phone,no,yes,70,SYNTHETIC
+E0692,2026-09-03,Thursday,18,yes,Health & insurance,How do I find a doctor who speaks English?,English,Email,yes,no,19,SYNTHETIC
+E0693,2026-07-28,Tuesday,21,yes,Documents & passport,"I lost my passport, what do I do?",English,Email,no,yes,36,SYNTHETIC
+E0694,2026-08-24,Monday,19,yes,Address registration,"I moved flats, do I need to register again?",German,Phone,yes,no,22,SYNTHETIC
+E0695,2026-04-05,Sunday,18,yes,Car & transport,How do I convert my driving licence?,German,Email,yes,no,8,SYNTHETIC
+E0696,2026-06-01,Monday,12,no,Health & insurance,Where is the nearest pharmacy open now?,Arabic,Phone,no,no,8,SYNTHETIC
+E0697,2026-06-21,Sunday,17,yes,Car & transport,How do I convert my driving licence?,English,Phone,no,yes,54,SYNTHETIC
+E0698,2026-07-07,Tuesday,12,no,School & childcare,I got a letter from my child's school,Hindi,Phone,yes,no,12,SYNTHETIC
+E0699,2026-05-03,Sunday,14,yes,Residence permit,Can I travel while my renewal is pending?,English,Email,yes,no,15,SYNTHETIC
+E0700,2026-06-30,Tuesday,20,yes,Address registration,How do I register my new address?,English,Phone,yes,no,5,SYNTHETIC
+E0701,2026-09-27,Sunday,19,yes,Work & job loss,Do I need to register with the job agency?,Turkish,Walk-in,yes,no,20,SYNTHETIC
+E0702,2026-02-03,Tuesday,9,no,Residence permit,My permit expires soon and I have no appointment,French,Phone,yes,no,5,SYNTHETIC
+E0703,2026-02-25,Wednesday,9,no,Residence permit,How do I renew my residence permit?,Arabic,Email,no,yes,43,SYNTHETIC
+E0704,2026-10-05,Monday,21,yes,Official letters,Is this letter a fine?,Turkish,Phone,yes,no,17,SYNTHETIC
+E0705,2026-04-29,Wednesday,19,yes,Documents & passport,How do I renew my ID card?,German,Email,yes,no,9,SYNTHETIC
+E0706,2026-10-08,Thursday,13,no,Health & insurance,How do I find a doctor who speaks English?,English,Phone,yes,no,12,SYNTHETIC
+E0707,2026-05-28,Thursday,17,no,Work & job loss,"I lost my job, what are my next steps?",Turkish,Phone,no,yes,33,SYNTHETIC
+E0708,2026-04-04,Saturday,22,yes,Health & insurance,Where is the nearest pharmacy open now?,Polish,Phone,yes,no,19,SYNTHETIC
+E0709,2026-06-12,Friday,15,no,Address registration,I can't find an appointment for registration,German,Phone,yes,no,17,SYNTHETIC
+E0710,2026-10-04,Sunday,22,yes,Official letters,What does this letter from the tax office mean?,German,Email,yes,no,23,SYNTHETIC
+E0711,2026-08-23,Sunday,20,yes,Address registration,I can't find an appointment for registration,Hindi,Email,no,no,9,SYNTHETIC
+E0712,2026-10-21,Wednesday,16,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,yes,no,13,SYNTHETIC
+E0713,2026-01-21,Wednesday,9,no,Work & job loss,Do I need to register with the job agency?,German,Phone,yes,no,7,SYNTHETIC
+E0714,2026-04-10,Friday,15,no,School & childcare,How does the school system work?,English,Phone,no,no,21,SYNTHETIC
+E0715,2026-02-14,Saturday,22,yes,Tax & money,Do I need to file a tax return?,French,Phone,yes,no,10,SYNTHETIC
+E0716,2026-08-07,Friday,12,no,Address registration,"I moved flats, do I need to register again?",German,Email,yes,no,11,SYNTHETIC
+E0717,2026-04-21,Tuesday,17,no,Health & insurance,Where is the nearest pharmacy open now?,Japanese,Email,no,no,16,SYNTHETIC
+E0718,2026-03-13,Friday,19,yes,Legal & police,"My bike was stolen, where do I report it?",English,Email,no,yes,32,SYNTHETIC
+E0719,2026-06-21,Sunday,8,yes,Tax & money,How do I get a tax ID?,German,Email,yes,no,19,SYNTHETIC
+E0720,2026-03-12,Thursday,9,no,Car & transport,"I got a parking fine, what now?",English,Walk-in,yes,no,18,SYNTHETIC
+E0721,2026-06-05,Friday,13,no,Tax & money,How do I get a tax ID?,Chinese,Walk-in,yes,no,16,SYNTHETIC
+E0722,2026-05-28,Thursday,12,no,Work & job loss,"I lost my job, what are my next steps?",English,Walk-in,yes,no,12,SYNTHETIC
+E0723,2026-02-04,Wednesday,15,no,Health & insurance,Where is the nearest pharmacy open now?,German,Email,yes,no,11,SYNTHETIC
+E0724,2026-09-20,Sunday,17,yes,Address registration,"I moved flats, do I need to register again?",English,Phone,no,yes,43,SYNTHETIC
+E0725,2026-03-11,Wednesday,12,no,Official letters,"I got a letter from my health insurance, is it urgent?",English,Phone,no,yes,31,SYNTHETIC
+E0726,2026-02-09,Monday,14,no,School & childcare,How do I find a Kita place?,Turkish,Phone,yes,no,20,SYNTHETIC
+E0727,2026-06-11,Thursday,18,yes,Official letters,What does this letter from the tax office mean?,Arabic,Phone,yes,no,12,SYNTHETIC
+E0728,2026-03-12,Thursday,14,no,Address registration,"I moved flats, do I need to register again?",Chinese,Phone,yes,no,8,SYNTHETIC
+E0729,2026-09-15,Tuesday,10,no,Address registration,I can't find an appointment for registration,Spanish,Email,no,no,8,SYNTHETIC
+E0730,2026-02-28,Saturday,12,yes,Car & transport,How do I convert my driving licence?,Chinese,Email,yes,no,9,SYNTHETIC
+E0731,2026-07-05,Sunday,9,yes,Official letters,What does this letter from the tax office mean?,Hindi,Phone,no,no,5,SYNTHETIC
+E0732,2026-04-24,Friday,9,no,Tax & money,How do I get a tax ID?,English,Phone,yes,no,13,SYNTHETIC
+E0733,2026-02-27,Friday,8,no,Documents & passport,Where do I get a certificate of good conduct?,Arabic,Phone,yes,no,17,SYNTHETIC
+E0734,2026-05-10,Sunday,7,yes,Address registration,How do I register my new address?,Polish,Walk-in,yes,no,16,SYNTHETIC
+E0735,2026-04-13,Monday,9,no,Address registration,I can't find an appointment for registration,German,Phone,yes,no,22,SYNTHETIC
+E0736,2026-05-04,Monday,14,no,Health & insurance,Where is the nearest pharmacy open now?,Polish,Email,no,yes,20,SYNTHETIC
+E0737,2026-05-25,Monday,9,no,Car & transport,How do I register my car?,Spanish,Email,yes,no,13,SYNTHETIC
+E0738,2026-04-05,Sunday,13,yes,Car & transport,"I got a parking fine, what now?",Japanese,Email,yes,no,5,SYNTHETIC
+E0739,2026-07-28,Tuesday,8,no,Health & insurance,How do I find a doctor who speaks English?,Hindi,Email,yes,no,17,SYNTHETIC
+E0740,2026-06-17,Wednesday,13,no,Documents & passport,Where do I get a certificate of good conduct?,German,Walk-in,yes,no,17,SYNTHETIC
+E0741,2026-10-11,Sunday,12,yes,Work & job loss,Do I need to register with the job agency?,Chinese,Phone,yes,no,22,SYNTHETIC
+E0742,2026-09-09,Wednesday,16,no,Documents & passport,Where do I get a certificate of good conduct?,English,Phone,yes,no,7,SYNTHETIC
+E0743,2026-10-30,Friday,22,yes,Work & job loss,"I lost my job, what are my next steps?",German,Email,no,no,17,SYNTHETIC
+E0744,2026-03-04,Wednesday,10,no,Residence permit,My permit expires soon and I have no appointment,English,Email,no,yes,48,SYNTHETIC
+E0745,2026-05-20,Wednesday,17,no,Health & insurance,How do I find a doctor who speaks English?,Japanese,Email,no,no,10,SYNTHETIC
+E0746,2026-08-21,Friday,8,no,Address registration,I can't find an appointment for registration,Chinese,Phone,yes,no,21,SYNTHETIC
+E0747,2026-02-04,Wednesday,14,no,Housing,What is a Nebenkostenabrechnung?,English,Email,no,yes,46,SYNTHETIC
+E0748,2026-02-09,Monday,16,no,Documents & passport,How do I renew my ID card?,English,Email,yes,no,21,SYNTHETIC
+E0749,2026-05-14,Thursday,14,no,Health & insurance,How do I find a doctor who speaks English?,French,Phone,yes,no,23,SYNTHETIC
+E0750,2026-07-12,Sunday,13,yes,Work & job loss,"I lost my job, what are my next steps?",Arabic,Walk-in,no,yes,42,SYNTHETIC
+E0751,2026-03-26,Thursday,13,no,Official letters,What does this letter from the tax office mean?,Arabic,Email,no,yes,38,SYNTHETIC
+E0752,2026-10-04,Sunday,15,yes,Health & insurance,Where is the nearest pharmacy open now?,English,Phone,no,no,9,SYNTHETIC
+E0753,2026-07-13,Monday,15,no,School & childcare,How do I find a Kita place?,English,Phone,no,no,14,SYNTHETIC
+E0754,2026-10-26,Monday,7,yes,Housing,"My landlord wants to raise the rent, is that allowed?",German,Walk-in,yes,no,16,SYNTHETIC
+E0755,2026-01-29,Thursday,16,no,Work & job loss,My employer has not paid my salary,English,Phone,no,yes,32,SYNTHETIC
+E0756,2026-01-11,Sunday,14,yes,Official letters,Is this letter a fine?,Spanish,Email,no,yes,29,SYNTHETIC
+E0757,2026-05-17,Sunday,6,yes,Legal & police,Someone scammed me online,German,Email,no,yes,49,SYNTHETIC
+E0758,2026-02-21,Saturday,16,yes,Housing,What is a Nebenkostenabrechnung?,Arabic,Walk-in,no,yes,41,SYNTHETIC
+E0759,2026-06-03,Wednesday,12,no,Official letters,Is this letter a fine?,English,Phone,yes,no,20,SYNTHETIC
+E0760,2026-10-21,Wednesday,12,no,Official letters,What does this letter from the tax office mean?,Hindi,Email,yes,no,8,SYNTHETIC
+E0761,2026-05-20,Wednesday,8,no,School & childcare,I got a letter from my child's school,Spanish,Email,yes,no,17,SYNTHETIC
+E0762,2026-10-04,Sunday,11,yes,Official letters,Is this letter a fine?,German,Walk-in,yes,no,24,SYNTHETIC
+E0763,2026-01-10,Saturday,15,yes,Address registration,I can't find an appointment for registration,Chinese,Phone,yes,no,8,SYNTHETIC
+E0764,2026-08-11,Tuesday,21,yes,School & childcare,How do I find a Kita place?,German,Phone,yes,no,15,SYNTHETIC
+E0765,2026-06-03,Wednesday,19,yes,Address registration,"I moved flats, do I need to register again?",English,Phone,no,no,21,SYNTHETIC
+E0766,2026-05-01,Friday,12,no,Address registration,How do I register my new address?,Polish,Phone,yes,no,11,SYNTHETIC
+E0767,2026-08-12,Wednesday,12,no,Work & job loss,Do I need to register with the job agency?,Turkish,Phone,yes,no,15,SYNTHETIC
+E0768,2026-09-06,Sunday,18,yes,Tax & money,Do I need to file a tax return?,German,Phone,no,yes,42,SYNTHETIC
+E0769,2026-07-28,Tuesday,20,yes,Documents & passport,"I lost my passport, what do I do?",English,Email,no,no,7,SYNTHETIC
+E0770,2026-03-03,Tuesday,14,no,Health & insurance,Where is the nearest pharmacy open now?,English,Walk-in,no,no,21,SYNTHETIC
+E0771,2026-03-04,Wednesday,18,yes,Official letters,Is this letter a fine?,English,Email,yes,no,14,SYNTHETIC
+E0772,2026-03-31,Tuesday,10,no,Address registration,I can't find an appointment for registration,English,Email,yes,no,6,SYNTHETIC
+E0773,2026-02-27,Friday,11,no,Car & transport,How do I convert my driving licence?,German,Email,yes,no,25,SYNTHETIC
+E0774,2026-01-11,Sunday,16,yes,Tax & money,How do I open a bank account?,Turkish,Walk-in,yes,no,13,SYNTHETIC
+E0775,2026-05-03,Sunday,10,yes,Car & transport,How do I register my car?,English,Walk-in,yes,no,12,SYNTHETIC
+E0776,2026-07-18,Saturday,3,yes,Tax & money,How do I get a tax ID?,German,Walk-in,no,no,5,SYNTHETIC
+E0777,2026-06-02,Tuesday,10,no,Housing,How do I find a flat?,German,Phone,no,no,8,SYNTHETIC
+E0778,2026-09-09,Wednesday,13,no,Tax & money,How do I open a bank account?,German,Walk-in,yes,no,7,SYNTHETIC
+E0779,2026-03-24,Tuesday,16,no,Documents & passport,Where do I get a certificate of good conduct?,German,Email,yes,no,8,SYNTHETIC
+E0780,2026-04-05,Sunday,15,yes,Housing,What is a Nebenkostenabrechnung?,English,Phone,yes,no,10,SYNTHETIC
+E0781,2026-02-26,Thursday,9,no,Health & insurance,Where is the nearest pharmacy open now?,Hindi,Walk-in,no,no,19,SYNTHETIC
+E0782,2026-09-02,Wednesday,19,yes,Official letters,What does this letter from the tax office mean?,Hindi,Walk-in,no,yes,25,SYNTHETIC
+E0783,2026-04-12,Sunday,8,yes,Housing,How do I find a flat?,English,Walk-in,yes,no,8,SYNTHETIC
+E0784,2026-04-28,Tuesday,20,yes,Legal & police,Someone scammed me online,Spanish,Phone,yes,no,22,SYNTHETIC
+E0785,2026-05-14,Thursday,9,no,School & childcare,I got a letter from my child's school,German,Walk-in,yes,no,14,SYNTHETIC
+E0786,2026-09-11,Friday,8,no,Work & job loss,Do I need to register with the job agency?,English,Email,yes,no,15,SYNTHETIC
+E0787,2026-04-16,Thursday,15,no,Address registration,"I moved flats, do I need to register again?",Polish,Phone,yes,no,13,SYNTHETIC
+E0788,2026-05-01,Friday,15,no,Residence permit,Can I travel while my renewal is pending?,Turkish,Phone,yes,no,10,SYNTHETIC
+E0789,2026-06-15,Monday,22,yes,Work & job loss,Do I need to register with the job agency?,Hindi,Phone,no,yes,42,SYNTHETIC
+E0790,2026-01-31,Saturday,7,yes,Documents & passport,How do I renew my ID card?,Japanese,Walk-in,yes,no,20,SYNTHETIC
+E0791,2026-01-24,Saturday,1,yes,Residence permit,Can I travel while my renewal is pending?,German,Walk-in,no,yes,20,SYNTHETIC
+E0792,2026-10-25,Sunday,9,yes,Health & insurance,How do I find a doctor who speaks English?,Chinese,Walk-in,no,yes,59,SYNTHETIC
+E0793,2026-06-12,Friday,17,no,Address registration,"I moved flats, do I need to register again?",French,Walk-in,yes,no,10,SYNTHETIC
+E0794,2026-08-09,Sunday,10,yes,Housing,What is a Nebenkostenabrechnung?,Arabic,Email,yes,no,28,SYNTHETIC
+E0795,2026-09-09,Wednesday,17,no,Address registration,How do I register my new address?,English,Phone,no,no,10,SYNTHETIC
+E0796,2026-08-29,Saturday,10,yes,Address registration,"I moved flats, do I need to register again?",English,Phone,yes,no,8,SYNTHETIC
+E0797,2026-09-06,Sunday,13,yes,Car & transport,"I got a parking fine, what now?",English,Walk-in,no,yes,39,SYNTHETIC
+E0798,2026-03-28,Saturday,17,yes,Address registration,I can't find an appointment for registration,Arabic,Email,yes,no,12,SYNTHETIC
+E0799,2026-09-27,Sunday,17,yes,Residence permit,My permit expires soon and I have no appointment,Turkish,Walk-in,no,yes,47,SYNTHETIC
+E0800,2026-03-04,Wednesday,12,no,Documents & passport,How do I renew my ID card?,English,Phone,no,no,13,SYNTHETIC
+E0801,2026-09-03,Thursday,13,no,Tax & money,How do I open a bank account?,Turkish,Email,yes,no,28,SYNTHETIC
+E0802,2026-10-19,Monday,9,no,Residence permit,My permit expires soon and I have no appointment,German,Phone,yes,no,15,SYNTHETIC
+E0803,2026-07-15,Wednesday,8,no,Documents & passport,How do I renew my ID card?,English,Walk-in,no,yes,41,SYNTHETIC
+E0804,2026-07-26,Sunday,10,yes,Address registration,How do I register my new address?,English,Walk-in,yes,no,24,SYNTHETIC
+E0805,2026-06-08,Monday,20,yes,Housing,"My landlord wants to raise the rent, is that allowed?",German,Walk-in,yes,no,19,SYNTHETIC
+E0806,2026-10-16,Friday,15,no,Work & job loss,Do I need to register with the job agency?,Spanish,Email,no,yes,45,SYNTHETIC
+E0807,2026-08-07,Friday,8,no,Work & job loss,My employer has not paid my salary,English,Email,no,no,12,SYNTHETIC
+E0808,2026-09-26,Saturday,8,yes,School & childcare,How does the school system work?,German,Walk-in,yes,no,9,SYNTHETIC
+E0809,2026-06-03,Wednesday,19,yes,Car & transport,How do I convert my driving licence?,Arabic,Email,yes,no,17,SYNTHETIC
+E0810,2026-08-26,Wednesday,16,no,Work & job loss,Do I need to register with the job agency?,Arabic,Walk-in,yes,no,16,SYNTHETIC
+E0811,2026-08-25,Tuesday,9,no,Documents & passport,Where do I get a certificate of good conduct?,English,Email,no,yes,37,SYNTHETIC
+E0812,2026-08-19,Wednesday,15,no,Work & job loss,"I lost my job, what are my next steps?",English,Phone,no,yes,43,SYNTHETIC
+E0813,2026-05-13,Wednesday,19,yes,Residence permit,How do I renew my residence permit?,English,Email,no,yes,39,SYNTHETIC
+E0814,2026-07-27,Monday,19,yes,Work & job loss,Do I need to register with the job agency?,German,Walk-in,yes,no,15,SYNTHETIC
+E0815,2026-07-22,Wednesday,18,yes,School & childcare,How do I find a Kita place?,Hindi,Phone,no,yes,44,SYNTHETIC
+E0816,2026-09-04,Friday,16,no,Documents & passport,Where do I get a certificate of good conduct?,Spanish,Email,yes,no,17,SYNTHETIC
+E0817,2026-08-26,Wednesday,9,no,Documents & passport,How do I renew my ID card?,Japanese,Email,yes,no,22,SYNTHETIC
+E0818,2026-10-27,Tuesday,10,no,Tax & money,How do I get a tax ID?,English,Phone,no,yes,31,SYNTHETIC
+E0819,2026-08-10,Monday,22,yes,School & childcare,How does the school system work?,English,Phone,yes,no,10,SYNTHETIC
+E0820,2026-09-07,Monday,10,no,Health & insurance,Which health insurance should I choose?,German,Phone,no,yes,33,SYNTHETIC
+E0821,2026-08-02,Sunday,20,yes,Documents & passport,How do I renew my ID card?,Hindi,Phone,no,yes,30,SYNTHETIC
+E0822,2026-04-09,Thursday,13,no,Official letters,Is this letter a fine?,French,Phone,yes,no,10,SYNTHETIC
+E0823,2026-08-28,Friday,9,no,School & childcare,I got a letter from my child's school,Turkish,Phone,yes,no,24,SYNTHETIC
+E0824,2026-03-24,Tuesday,15,no,Work & job loss,My employer has not paid my salary,English,Email,no,yes,35,SYNTHETIC
+E0825,2026-03-22,Sunday,15,yes,Address registration,How do I register my new address?,Arabic,Walk-in,yes,no,19,SYNTHETIC
+E0826,2026-05-14,Thursday,11,no,Official letters,Is this letter a fine?,English,Phone,yes,no,15,SYNTHETIC
+E0827,2026-04-27,Monday,8,no,Work & job loss,Do I need to register with the job agency?,Polish,Walk-in,no,yes,40,SYNTHETIC
+E0828,2026-03-19,Thursday,19,yes,Health & insurance,Which health insurance should I choose?,Hindi,Walk-in,yes,no,20,SYNTHETIC
+E0829,2026-08-23,Sunday,21,yes,Work & job loss,"I lost my job, what are my next steps?",Spanish,Phone,no,no,16,SYNTHETIC
+E0830,2026-03-02,Monday,19,yes,Documents & passport,How do I renew my ID card?,Hindi,Walk-in,yes,no,8,SYNTHETIC
+E0831,2026-02-20,Friday,9,no,Health & insurance,How do I find a doctor who speaks English?,Polish,Phone,yes,no,17,SYNTHETIC
+E0832,2026-08-31,Monday,11,no,Tax & money,How do I get a tax ID?,Hindi,Email,yes,no,17,SYNTHETIC
+E0833,2026-05-06,Wednesday,9,no,School & childcare,How does the school system work?,French,Walk-in,yes,no,16,SYNTHETIC
+E0834,2026-09-22,Tuesday,18,yes,Residence permit,How do I renew my residence permit?,German,Walk-in,no,yes,58,SYNTHETIC
+E0835,2026-09-22,Tuesday,21,yes,Car & transport,How do I convert my driving licence?,German,Phone,no,yes,29,SYNTHETIC
+E0836,2026-03-19,Thursday,20,yes,Documents & passport,Where do I get a certificate of good conduct?,Japanese,Walk-in,no,yes,66,SYNTHETIC
+E0837,2026-06-01,Monday,12,no,Tax & money,How do I get a tax ID?,French,Phone,yes,no,21,SYNTHETIC
+E0838,2026-09-28,Monday,15,no,Official letters,"I got a letter from my health insurance, is it urgent?",German,Phone,no,yes,29,SYNTHETIC
+E0839,2026-08-15,Saturday,16,yes,Health & insurance,How do I find a doctor who speaks English?,English,Email,yes,no,12,SYNTHETIC
+E0840,2026-03-06,Friday,14,no,Official letters,Is this letter a fine?,Arabic,Email,yes,no,17,SYNTHETIC
+E0841,2026-03-23,Monday,6,yes,Housing,What is a Nebenkostenabrechnung?,Hindi,Walk-in,yes,no,14,SYNTHETIC
+E0842,2026-01-31,Saturday,19,yes,Address registration,How do I register my new address?,English,Email,yes,no,24,SYNTHETIC
+E0843,2026-06-02,Tuesday,15,no,Address registration,I can't find an appointment for registration,Japanese,Email,no,yes,36,SYNTHETIC
+E0844,2026-10-01,Thursday,19,yes,Legal & police,"I need a lawyer, where do I start?",English,Walk-in,no,yes,46,SYNTHETIC
+E0845,2026-03-13,Friday,17,no,Car & transport,"I got a parking fine, what now?",German,Phone,yes,no,12,SYNTHETIC
+E0846,2026-07-30,Thursday,8,no,Work & job loss,"I lost my job, what are my next steps?",German,Email,no,yes,52,SYNTHETIC
+E0847,2026-09-27,Sunday,12,yes,Official letters,Is this letter a fine?,German,Email,yes,no,20,SYNTHETIC
+E0848,2026-09-08,Tuesday,17,no,Legal & police,"My bike was stolen, where do I report it?",English,Phone,no,yes,30,SYNTHETIC
+E0849,2026-03-08,Sunday,22,yes,Car & transport,How do I convert my driving licence?,Hindi,Walk-in,yes,no,13,SYNTHETIC
+E0850,2026-03-02,Monday,15,no,Official letters,Is this letter a fine?,English,Email,yes,no,10,SYNTHETIC
+E0851,2026-06-06,Saturday,23,yes,Address registration,I can't find an appointment for registration,German,Walk-in,yes,no,16,SYNTHETIC
+E0852,2026-05-26,Tuesday,10,no,Official letters,What does this letter from the tax office mean?,Arabic,Phone,yes,no,12,SYNTHETIC
+E0853,2026-09-04,Friday,15,no,Documents & passport,Where do I get a certificate of good conduct?,Spanish,Phone,no,no,16,SYNTHETIC
+E0854,2026-08-24,Monday,17,no,Address registration,I can't find an appointment for registration,German,Walk-in,yes,no,9,SYNTHETIC
+E0855,2026-07-29,Wednesday,12,no,Car & transport,"I got a parking fine, what now?",Hindi,Email,yes,no,22,SYNTHETIC
+E0856,2026-01-13,Tuesday,15,no,Tax & money,How do I open a bank account?,Turkish,Email,yes,no,17,SYNTHETIC
+E0857,2026-10-05,Monday,15,no,Documents & passport,How do I renew my ID card?,Arabic,Phone,no,yes,34,SYNTHETIC
+E0858,2026-09-30,Wednesday,9,no,School & childcare,How do I find a Kita place?,English,Email,no,yes,37,SYNTHETIC
+E0859,2026-08-16,Sunday,8,yes,Tax & money,Do I need to file a tax return?,German,Phone,yes,no,10,SYNTHETIC
+E0860,2026-09-28,Monday,11,no,Documents & passport,"I lost my passport, what do I do?",Japanese,Email,no,yes,34,SYNTHETIC
+E0861,2026-04-04,Saturday,10,yes,Official letters,What does this letter from the tax office mean?,English,Walk-in,no,yes,36,SYNTHETIC
+E0862,2026-01-30,Friday,11,no,Address registration,"I moved flats, do I need to register again?",English,Walk-in,yes,no,20,SYNTHETIC
+E0863,2026-01-27,Tuesday,9,no,Legal & police,"I need a lawyer, where do I start?",Chinese,Phone,yes,no,7,SYNTHETIC
+E0864,2026-10-11,Sunday,12,yes,Official letters,What does this letter from the tax office mean?,French,Phone,yes,no,15,SYNTHETIC
+E0865,2026-10-28,Wednesday,16,no,Health & insurance,How do I find a doctor who speaks English?,German,Walk-in,yes,no,16,SYNTHETIC
+E0866,2026-03-14,Saturday,12,yes,Health & insurance,Where is the nearest pharmacy open now?,Chinese,Walk-in,yes,no,11,SYNTHETIC
+E0867,2026-01-22,Thursday,0,yes,Health & insurance,Which health insurance should I choose?,English,Walk-in,yes,no,12,SYNTHETIC
+E0868,2026-05-09,Saturday,19,yes,Official letters,Is this letter a fine?,English,Walk-in,yes,no,28,SYNTHETIC
+E0869,2026-03-24,Tuesday,17,no,Official letters,What does this letter from the tax office mean?,Hindi,Walk-in,yes,no,13,SYNTHETIC
+E0870,2026-04-18,Saturday,15,yes,Tax & money,How do I open a bank account?,Chinese,Email,yes,no,17,SYNTHETIC
+E0871,2026-08-20,Thursday,10,no,Residence permit,My permit expires soon and I have no appointment,English,Email,yes,no,18,SYNTHETIC
+E0872,2026-01-02,Friday,15,no,School & childcare,How do I find a Kita place?,Turkish,Email,no,yes,65,SYNTHETIC
+E0873,2026-09-08,Tuesday,17,no,Legal & police,"My bike was stolen, where do I report it?",Arabic,Walk-in,no,yes,43,SYNTHETIC
+E0874,2026-08-16,Sunday,16,yes,Tax & money,How do I open a bank account?,German,Phone,yes,no,8,SYNTHETIC
+E0875,2026-01-05,Monday,8,no,Housing,What is a Nebenkostenabrechnung?,Hindi,Email,yes,no,23,SYNTHETIC
+E0876,2026-06-05,Friday,18,yes,Address registration,"I moved flats, do I need to register again?",English,Email,no,no,15,SYNTHETIC
+E0877,2026-04-18,Saturday,3,yes,Car & transport,How do I register my car?,German,Email,yes,no,18,SYNTHETIC
+E0878,2026-10-17,Saturday,16,yes,School & childcare,I got a letter from my child's school,English,Phone,yes,no,18,SYNTHETIC
+E0879,2026-10-19,Monday,19,yes,Official letters,What does this letter from the tax office mean?,Japanese,Email,yes,no,14,SYNTHETIC
+E0880,2026-05-10,Sunday,16,yes,Health & insurance,How do I find a doctor who speaks English?,Turkish,Walk-in,yes,no,25,SYNTHETIC
+E0881,2026-06-15,Monday,13,no,Documents & passport,How do I renew my ID card?,Arabic,Phone,yes,no,13,SYNTHETIC
+E0882,2026-01-25,Sunday,10,yes,Car & transport,How do I convert my driving licence?,German,Phone,yes,no,10,SYNTHETIC
+E0883,2026-01-13,Tuesday,23,yes,Tax & money,Do I need to file a tax return?,English,Phone,no,yes,31,SYNTHETIC
+E0884,2026-02-19,Thursday,7,yes,Documents & passport,Where do I get a certificate of good conduct?,Chinese,Walk-in,yes,no,5,SYNTHETIC
+E0885,2026-08-31,Monday,10,no,Official letters,What does this letter from the tax office mean?,Polish,Email,yes,no,11,SYNTHETIC
+E0886,2026-08-17,Monday,15,no,Housing,"My landlord wants to raise the rent, is that allowed?",French,Phone,no,yes,55,SYNTHETIC
+E0887,2026-02-03,Tuesday,18,yes,Legal & police,Someone scammed me online,Turkish,Phone,no,yes,41,SYNTHETIC
+E0888,2026-10-14,Wednesday,7,yes,Car & transport,How do I register my car?,Polish,Phone,yes,no,13,SYNTHETIC
+E0889,2026-01-06,Tuesday,13,no,School & childcare,I got a letter from my child's school,Chinese,Walk-in,yes,no,13,SYNTHETIC
+E0890,2026-06-18,Thursday,15,no,Work & job loss,"I lost my job, what are my next steps?",Turkish,Phone,no,yes,37,SYNTHETIC
+E0891,2026-04-10,Friday,20,yes,Housing,What is a Nebenkostenabrechnung?,Hindi,Email,no,yes,31,SYNTHETIC
+E0892,2026-01-23,Friday,8,no,Official letters,Is this letter a fine?,Polish,Phone,yes,no,15,SYNTHETIC
+E0893,2026-03-16,Monday,9,no,Tax & money,Do I need to file a tax return?,Arabic,Email,no,yes,35,SYNTHETIC
+E0894,2026-05-02,Saturday,14,yes,Address registration,"I moved flats, do I need to register again?",German,Walk-in,no,no,19,SYNTHETIC
+E0895,2026-04-14,Tuesday,18,yes,School & childcare,I got a letter from my child's school,Hindi,Walk-in,yes,no,10,SYNTHETIC
+E0896,2026-06-21,Sunday,15,yes,Health & insurance,How do I find a doctor who speaks English?,French,Walk-in,yes,no,5,SYNTHETIC
+E0897,2026-01-02,Friday,16,no,Health & insurance,How do I find a doctor who speaks English?,Polish,Phone,yes,no,16,SYNTHETIC
+E0898,2026-01-04,Sunday,12,yes,Work & job loss,"I lost my job, what are my next steps?",Arabic,Phone,no,yes,51,SYNTHETIC
+E0899,2026-10-27,Tuesday,20,yes,Work & job loss,Do I need to register with the job agency?,English,Walk-in,no,yes,47,SYNTHETIC
+E0900,2026-06-23,Tuesday,19,yes,Car & transport,How do I convert my driving licence?,Spanish,Walk-in,yes,no,14,SYNTHETIC
+E0901,2026-03-12,Thursday,12,no,Documents & passport,"I lost my passport, what do I do?",German,Phone,yes,no,19,SYNTHETIC
+E0902,2026-09-27,Sunday,22,yes,Address registration,I can't find an appointment for registration,English,Phone,no,no,13,SYNTHETIC
+E0903,2026-04-08,Wednesday,9,no,Legal & police,Someone scammed me online,English,Phone,no,yes,30,SYNTHETIC
+E0904,2026-04-07,Tuesday,19,yes,School & childcare,How do I find a Kita place?,English,Walk-in,yes,no,20,SYNTHETIC
+E0905,2026-09-18,Friday,22,yes,Tax & money,How do I open a bank account?,Turkish,Phone,yes,no,20,SYNTHETIC
+E0906,2026-09-18,Friday,12,no,Official letters,Is this letter a fine?,German,Email,yes,no,18,SYNTHETIC
+E0907,2026-09-11,Friday,13,no,Car & transport,How do I convert my driving licence?,English,Phone,yes,no,17,SYNTHETIC
+E0908,2026-07-22,Wednesday,10,no,Tax & money,Do I need to file a tax return?,Chinese,Phone,yes,no,8,SYNTHETIC
+E0909,2026-03-10,Tuesday,17,no,Health & insurance,Where is the nearest pharmacy open now?,Turkish,Email,yes,no,15,SYNTHETIC
+E0910,2026-07-29,Wednesday,12,no,Work & job loss,"I lost my job, what are my next steps?",English,Phone,yes,no,16,SYNTHETIC
+E0911,2026-07-03,Friday,20,yes,School & childcare,How does the school system work?,Chinese,Phone,yes,no,13,SYNTHETIC
+E0912,2026-01-20,Tuesday,14,no,Documents & passport,How do I renew my ID card?,German,Walk-in,yes,no,14,SYNTHETIC
+E0913,2026-05-21,Thursday,9,no,Car & transport,How do I register my car?,French,Phone,yes,no,20,SYNTHETIC
+E0914,2026-06-27,Saturday,18,yes,Official letters,Is this letter a fine?,Polish,Phone,yes,no,9,SYNTHETIC
+E0915,2026-03-18,Wednesday,19,yes,School & childcare,I got a letter from my child's school,Polish,Walk-in,yes,no,16,SYNTHETIC
+E0916,2026-08-25,Tuesday,11,no,Car & transport,How do I convert my driving licence?,German,Walk-in,no,yes,47,SYNTHETIC
+E0917,2026-08-13,Thursday,13,no,Work & job loss,My employer has not paid my salary,English,Walk-in,yes,no,13,SYNTHETIC
+E0918,2026-06-23,Tuesday,10,no,Tax & money,How do I open a bank account?,Arabic,Phone,yes,no,14,SYNTHETIC
+E0919,2026-01-17,Saturday,20,yes,Documents & passport,Where do I get a certificate of good conduct?,Polish,Walk-in,no,yes,49,SYNTHETIC
+E0920,2026-07-20,Monday,22,yes,Health & insurance,Where is the nearest pharmacy open now?,German,Email,yes,no,14,SYNTHETIC
+E0921,2026-08-20,Thursday,16,no,Official letters,Is this letter a fine?,Turkish,Phone,yes,no,14,SYNTHETIC
+E0922,2026-07-17,Friday,10,no,Address registration,How do I register my new address?,German,Phone,yes,no,12,SYNTHETIC
+E0923,2026-06-17,Wednesday,19,yes,Documents & passport,How do I renew my ID card?,Hindi,Phone,yes,no,20,SYNTHETIC
+E0924,2026-04-16,Thursday,9,no,Legal & police,"I need a lawyer, where do I start?",Spanish,Email,no,yes,48,SYNTHETIC
+E0925,2026-10-22,Thursday,21,yes,Address registration,How do I register my new address?,Japanese,Email,yes,no,13,SYNTHETIC
+E0926,2026-05-07,Thursday,14,no,Tax & money,How do I get a tax ID?,German,Phone,no,no,11,SYNTHETIC
+E0927,2026-08-22,Saturday,11,yes,Documents & passport,"I lost my passport, what do I do?",German,Phone,yes,no,8,SYNTHETIC
+E0928,2026-08-10,Monday,13,no,School & childcare,I got a letter from my child's school,English,Email,yes,no,21,SYNTHETIC
+E0929,2026-03-22,Sunday,10,yes,Documents & passport,Where do I get a certificate of good conduct?,French,Walk-in,yes,no,22,SYNTHETIC
+E0930,2026-10-11,Sunday,8,yes,Work & job loss,"I lost my job, what are my next steps?",Arabic,Walk-in,no,yes,32,SYNTHETIC
+E0931,2026-03-26,Thursday,10,no,Work & job loss,My employer has not paid my salary,German,Phone,yes,no,22,SYNTHETIC
+E0932,2026-04-10,Friday,12,no,Work & job loss,"I lost my job, what are my next steps?",Hindi,Phone,no,yes,47,SYNTHETIC
+E0933,2026-08-26,Wednesday,13,no,Car & transport,"I got a parking fine, what now?",English,Walk-in,no,yes,33,SYNTHETIC
+E0934,2026-03-29,Sunday,19,yes,Tax & money,Do I need to file a tax return?,Arabic,Phone,yes,no,14,SYNTHETIC
+E0935,2026-01-06,Tuesday,16,no,Documents & passport,"I lost my passport, what do I do?",French,Email,no,yes,36,SYNTHETIC
+E0936,2026-01-25,Sunday,19,yes,Work & job loss,My employer has not paid my salary,Turkish,Phone,yes,no,18,SYNTHETIC
+E0937,2026-08-16,Sunday,7,yes,Car & transport,How do I convert my driving licence?,German,Phone,no,yes,42,SYNTHETIC
+E0938,2026-08-04,Tuesday,7,yes,Documents & passport,"I lost my passport, what do I do?",Turkish,Phone,no,yes,23,SYNTHETIC
+E0939,2026-02-19,Thursday,18,yes,Residence permit,How do I renew my residence permit?,Spanish,Phone,yes,no,18,SYNTHETIC
+E0940,2026-04-17,Friday,21,yes,School & childcare,How do I find a Kita place?,English,Phone,yes,no,19,SYNTHETIC
+E0941,2026-07-25,Saturday,16,yes,Address registration,I can't find an appointment for registration,Spanish,Email,no,yes,42,SYNTHETIC
+E0942,2026-02-04,Wednesday,20,yes,Official letters,"I got a letter from my health insurance, is it urgent?",Japanese,Phone,yes,no,18,SYNTHETIC
+E0943,2026-10-19,Monday,9,no,Health & insurance,Where is the nearest pharmacy open now?,Chinese,Walk-in,yes,no,23,SYNTHETIC
+E0944,2026-03-31,Tuesday,16,no,Address registration,I can't find an appointment for registration,German,Phone,yes,no,14,SYNTHETIC
+E0945,2026-10-27,Tuesday,13,no,School & childcare,How do I find a Kita place?,English,Email,yes,no,7,SYNTHETIC
+E0946,2026-06-08,Monday,10,no,Legal & police,"My bike was stolen, where do I report it?",Turkish,Phone,no,yes,40,SYNTHETIC
+E0947,2026-06-01,Monday,9,no,Official letters,"I got a letter from my health insurance, is it urgent?",Hindi,Phone,yes,no,16,SYNTHETIC
+E0948,2026-01-21,Wednesday,14,no,Official letters,"I got a letter from my health insurance, is it urgent?",Polish,Phone,yes,no,23,SYNTHETIC
+E0949,2026-06-25,Thursday,10,no,Housing,How do I find a flat?,Hindi,Phone,no,no,13,SYNTHETIC
+E0950,2026-09-24,Thursday,11,no,Tax & money,How do I get a tax ID?,English,Phone,yes,no,12,SYNTHETIC
+E0951,2026-03-14,Saturday,21,yes,School & childcare,How do I find a Kita place?,English,Phone,no,yes,46,SYNTHETIC
+E0952,2026-06-09,Tuesday,9,no,Car & transport,How do I register my car?,English,Phone,yes,no,21,SYNTHETIC
+E0953,2026-04-14,Tuesday,10,no,Work & job loss,"I lost my job, what are my next steps?",German,Email,yes,no,20,SYNTHETIC
+E0954,2026-08-10,Monday,17,no,School & childcare,How do I find a Kita place?,Polish,Email,yes,no,14,SYNTHETIC
+E0955,2026-06-03,Wednesday,15,no,Documents & passport,How do I renew my ID card?,German,Phone,no,yes,39,SYNTHETIC
+E0956,2026-09-04,Friday,8,no,Health & insurance,How do I find a doctor who speaks English?,English,Walk-in,no,yes,32,SYNTHETIC
+E0957,2026-09-14,Monday,17,no,Documents & passport,Where do I get a certificate of good conduct?,German,Email,yes,no,11,SYNTHETIC
+E0958,2026-10-29,Thursday,8,no,School & childcare,How do I find a Kita place?,German,Email,no,no,18,SYNTHETIC
+E0959,2026-08-12,Wednesday,21,yes,Address registration,I can't find an appointment for registration,Hindi,Email,yes,no,10,SYNTHETIC
+E0960,2026-08-06,Thursday,17,no,School & childcare,How does the school system work?,Turkish,Email,yes,no,21,SYNTHETIC
+E0961,2026-03-17,Tuesday,10,no,Car & transport,How do I register my car?,Spanish,Phone,yes,no,15,SYNTHETIC
+E0962,2026-07-16,Thursday,12,no,Housing,How do I find a flat?,French,Walk-in,no,no,22,SYNTHETIC
+E0963,2026-08-07,Friday,10,no,Address registration,"I moved flats, do I need to register again?",Hindi,Walk-in,no,no,12,SYNTHETIC
+E0964,2026-02-15,Sunday,8,yes,Legal & police,"I need a lawyer, where do I start?",Spanish,Phone,no,yes,32,SYNTHETIC
+E0965,2026-07-23,Thursday,16,no,Address registration,How do I register my new address?,English,Email,no,yes,46,SYNTHETIC
+E0966,2026-05-28,Thursday,17,no,Health & insurance,How do I find a doctor who speaks English?,English,Phone,no,yes,50,SYNTHETIC
+E0967,2026-09-15,Tuesday,21,yes,Work & job loss,"I lost my job, what are my next steps?",Polish,Phone,yes,no,16,SYNTHETIC
+E0968,2026-07-29,Wednesday,13,no,Residence permit,Can I travel while my renewal is pending?,English,Phone,yes,no,17,SYNTHETIC
+E0969,2026-05-22,Friday,8,no,Official letters,What does this letter from the tax office mean?,English,Phone,no,yes,41,SYNTHETIC
+E0970,2026-10-26,Monday,18,yes,Residence permit,How do I renew my residence permit?,Arabic,Phone,no,yes,51,SYNTHETIC
+E0971,2026-05-17,Sunday,21,yes,School & childcare,How does the school system work?,Japanese,Walk-in,yes,no,11,SYNTHETIC
+E0972,2026-07-24,Friday,12,no,Residence permit,My permit expires soon and I have no appointment,French,Walk-in,no,yes,44,SYNTHETIC
+E0973,2026-07-25,Saturday,17,yes,Documents & passport,How do I renew my ID card?,Chinese,Walk-in,yes,no,7,SYNTHETIC
+E0974,2026-08-20,Thursday,15,no,Official letters,"I got a letter from my health insurance, is it urgent?",Turkish,Phone,yes,no,9,SYNTHETIC
+E0975,2026-06-14,Sunday,6,yes,School & childcare,How does the school system work?,English,Email,yes,no,17,SYNTHETIC
+E0976,2026-02-11,Wednesday,11,no,Housing,What is a Nebenkostenabrechnung?,Japanese,Walk-in,no,no,11,SYNTHETIC
+E0977,2026-07-17,Friday,11,no,Legal & police,Someone scammed me online,Polish,Email,no,yes,48,SYNTHETIC
+E0978,2026-09-12,Saturday,18,yes,Documents & passport,Where do I get a certificate of good conduct?,Japanese,Email,yes,no,20,SYNTHETIC
+E0979,2026-03-01,Sunday,13,yes,Legal & police,Someone scammed me online,Hindi,Phone,no,yes,40,SYNTHETIC
+E0980,2026-01-15,Thursday,9,no,Residence permit,My permit expires soon and I have no appointment,English,Phone,no,no,18,SYNTHETIC
+E0981,2026-03-05,Thursday,16,no,Work & job loss,Do I need to register with the job agency?,French,Walk-in,yes,no,6,SYNTHETIC
+E0982,2026-02-03,Tuesday,16,no,Housing,How do I find a flat?,Hindi,Email,yes,no,15,SYNTHETIC
+E0983,2026-08-12,Wednesday,18,yes,Housing,"My landlord wants to raise the rent, is that allowed?",German,Email,no,yes,43,SYNTHETIC
+E0984,2026-03-01,Sunday,15,yes,Address registration,"I moved flats, do I need to register again?",Arabic,Phone,yes,no,16,SYNTHETIC
+E0985,2026-10-02,Friday,9,no,Documents & passport,"I lost my passport, what do I do?",Arabic,Email,yes,no,16,SYNTHETIC
+E0986,2026-07-22,Wednesday,5,yes,Address registration,"I moved flats, do I need to register again?",Spanish,Email,yes,no,6,SYNTHETIC
+E0987,2026-05-26,Tuesday,9,no,Work & job loss,Do I need to register with the job agency?,Arabic,Email,yes,no,13,SYNTHETIC
+E0988,2026-10-21,Wednesday,13,no,Official letters,Is this letter a fine?,Japanese,Phone,yes,no,9,SYNTHETIC
+E0989,2026-03-20,Friday,19,yes,Tax & money,How do I open a bank account?,Hindi,Walk-in,no,yes,38,SYNTHETIC
+E0990,2026-09-07,Monday,17,no,Housing,How do I find a flat?,French,Phone,no,yes,22,SYNTHETIC
+E0991,2026-07-20,Monday,11,no,Documents & passport,Where do I get a certificate of good conduct?,Hindi,Phone,no,no,15,SYNTHETIC
+E0992,2026-10-08,Thursday,12,no,Legal & police,Someone scammed me online,Spanish,Phone,no,yes,30,SYNTHETIC
+E0993,2026-06-05,Friday,13,no,Legal & police,"I need a lawyer, where do I start?",French,Phone,no,yes,50,SYNTHETIC
+E0994,2026-04-11,Saturday,17,yes,Housing,How do I find a flat?,Spanish,Phone,no,yes,52,SYNTHETIC
+E0995,2026-03-17,Tuesday,12,no,Housing,What is a Nebenkostenabrechnung?,Japanese,Phone,yes,no,16,SYNTHETIC
+E0996,2026-09-21,Monday,16,no,Documents & passport,Where do I get a certificate of good conduct?,Hindi,Phone,no,no,16,SYNTHETIC
+E0997,2026-07-23,Thursday,13,no,Address registration,I can't find an appointment for registration,Japanese,Email,no,no,12,SYNTHETIC
+E0998,2026-08-26,Wednesday,19,yes,Documents & passport,Where do I get a certificate of good conduct?,German,Phone,yes,no,11,SYNTHETIC
+E0999,2026-03-04,Wednesday,13,no,Address registration,I can't find an appointment for registration,German,Email,yes,no,21,SYNTHETIC
+E1000,2026-10-31,Saturday,9,yes,Documents & passport,How do I renew my ID card?,English,Phone,yes,no,16,SYNTHETIC
